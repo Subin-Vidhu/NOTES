@@ -1,3 +1,3 @@
 # NOTES
 
-Notes from Courses and Blogs.
+Notes taken from Courses and Blogs.
