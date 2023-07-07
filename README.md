@@ -39,3 +39,6 @@ Congratulations to the authors!!
 
 [1] - Orca: The first model to cross 100% of ChatGPT: https://lnkd.in/dH2PMzgd
 [2] - LIMA: Less Is More for Alignment - TL;DR: Using small number of VERY high quality samples (1000 in the paper) can be as powerful as much larger datasets: https://lnkd.in/dFNv5zaV
+
+
+hey all, down with fever, hope to get back soon...
