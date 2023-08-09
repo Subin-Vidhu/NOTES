@@ -31,3 +31,25 @@ https://lnkd.in/gVp96GdB
 
 📚 University College London (UCL)
 🔹 COMP M050 Reinforcement Learning by David Silver: https://lnkd.in/gEpkWmqh
+
+
+
+MLOps is the DevOps for machine learning.
+
+It streamlines the end-to-end machine learning lifecycle by integrating best practices from the software development world.
+
+This ensures that machine learning models are not just built, but are also effectively deployed, monitored, and managed in production.
+
+It includes:
+1. Continuous Integration (CI): Automated testing of ML code and pipelines.
+2. Continuous Delivery (CD): Automate model deployment processes.
+3. Model Versioning: Track and manage different versions of models and data.
+4. Model Monitoring: Keep an eye on model performance and health in real-time.
+5. Model Retraining: Ensure models stay relevant by retraining them with new data.
+6. Scalability & Serving: Efficiently serve models to handle real-world traffic.
+7. Collaboration: Tools for team collaboration and reproducibility across ML workflows.
+
+MLOps ensures reliable and faster delivery of high-quality ML models to production.
+↓
+https://media.licdn.com/dms/image/D5622AQHv1d7ajrjPPg/feedshare-shrink_2048_1536/0/1691516134239?e=1694649600&v=beta&t=Gm7lgf7vQGff910pxXw75oYz84iTUzE4NlYZGWiqK0o 
+
