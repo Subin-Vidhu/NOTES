@@ -53,3 +53,28 @@ MLOps ensures reliable and faster delivery of high-quality ML models to producti
 ↓
 https://media.licdn.com/dms/image/D5622AQHv1d7ajrjPPg/feedshare-shrink_2048_1536/0/1691516134239?e=1694649600&v=beta&t=Gm7lgf7vQGff910pxXw75oYz84iTUzE4NlYZGWiqK0o 
 
+Notebooks for finetuning and inference of Llama-2 and LLMs
+
+- bnb-4bit-training-with-inference
+https://lnkd.in/dtiky_k8
+
+- Llama 2 Fine-Tuning using QLora
+https://lnkd.in/dEd4xTAR
+
+- Fine-tune Llama 2 in Google Colab
+https://lnkd.in/dHi2JHcf
+
+- llama-2-70b-chat-agent
+https://lnkd.in/dWjSdqRB
+
+- text-generation-inference
+https://lnkd.in/dvmMGhD6
+
+- text-generation-webui
+https://lnkd.in/dQ_NVNkP
+
+- llama2-webui
+https://lnkd.in/dkY3c_Pc
+
+- llama_cpu_interface
+https://lnkd.in/dyq2ft-q
