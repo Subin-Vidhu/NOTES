@@ -78,3 +78,59 @@ https://lnkd.in/dkY3c_Pc
 
 - llama_cpu_interface
 https://lnkd.in/dyq2ft-q
+
+
+########
+AI is taking over the world. And, you can either take a backseat. Or, invest your time in learning it. Here's my 𝟱-𝘀𝘁𝗲𝗽 𝗳𝗼𝗿𝗺𝘂𝗹𝗮 📚 on how I gain deep intuition of 𝗦𝗢𝗧𝗔𝘀 𝗹𝗶𝗸𝗲 𝗦𝘁𝗮𝗯𝗹𝗲 𝗗𝗶𝗳𝗳𝘂𝘀𝗶𝗼𝗻 and 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 👇
+
+𝗦𝘁𝗲𝗽 𝟭 - 💡 𝗚𝗮𝘁𝗵𝗲𝗿 𝗜𝗻𝗴𝗿𝗲𝗱𝗶𝗲𝗻𝘁𝘀 𝗤𝘂𝗶𝗰𝗸𝗹𝘆
+
+When you want to cook a dish, what's the first step? You have to know what ingredients to pick up.
+
+To understand a SOTA model like Stable Diffusion, start by gathering the essential components that make up the algo.
+
+- Forward Diffusion Process
+- Variance Scheduling
+- Markov Chain
+- Reverse Diffusion Process
+- UNet
+- Parameter Sampling
+- Attention Mechanism
+
+Once you have your "ingredient", you now have a map of the building blocks you need to understand how the pieces fit together for the overall model process.
+
+𝗦𝘁𝗲𝗽 𝟮 - ✍️ 𝗗𝘄𝗲𝗹𝗹 𝗼𝗻 𝘁𝗵𝗲 𝗺𝗮𝘁𝗵
+
+I can't emphasize this enough. Knowing how to apply the algorithm with a Tensorflow library is just the tip of the iceberg.
+
+If you want a deep intuition of SOTA model, find a coffee shop and work out the math in matrix form step-by-step.
+
+𝗦𝘁𝗲𝗽 𝟯 - ⌨️ 𝗖𝗼𝗱𝗲 𝗶𝘁
+
+Import tensorflow or import torch, and play around with the algorithm on a toy problem.
+
+Browse Githubs, Medium, Kaggle, or Hugging Face for implementations.
+
+Copy the code, play around with the parameter values, and input a new dataset and observe the output.
+
+𝗦𝘁𝗲𝗽 𝟰 - ✅ 𝗖𝗼𝗱𝗲 𝗶𝘁 𝗳𝗿𝗼𝗺 𝘀𝗰𝗿𝗮𝘁𝗰𝗵
+
+Andrej Karpathy shares this a lot, and it's also something I've been doing since I became a practitioner in ML 7 years ago. And, it's what I've done for all the popular types of ML algos (e.g. XGBoost, RNN, Diffusion Models)
+
+Code it from scratch - see how far you could go in each level.
+
+Level 1 - Use tensorflow/torch
+Level 2 - Only use numpy
+Level 3 - Only use vanilla python
+
+𝗦𝘁𝗲𝗽 𝟱 - 📝 𝗧𝗲𝗮𝗰𝗵 𝗶𝘁
+
+The best way to learn is to teach. Write about it. Talk about it. Share your learning with the world so others could learn.
+
+(𝗦𝘁𝗲𝗽 𝟲) - 🎯 𝗥𝗲𝗽𝗲𝗮𝘁 𝗶𝘁 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗻𝗲𝘅𝘁 𝗦𝗢𝗧𝗔
+
+Learning never stops. Continue to make progress in growing your knowledge in ML/AI.
+
+👉 What's the algo you are learning right now? Drop one below 👇
+👉 Land dream data job 🌈 on 𝗗𝗮𝘁𝗮𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄[.]𝗰𝗼𝗺 🚀
+👉 Found this post helpful? Smash 👍 and follow Daniel Lee 📚
