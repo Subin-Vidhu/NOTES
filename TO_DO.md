@@ -134,3 +134,145 @@ Learning never stops. Continue to make progress in growing your knowledge in ML/
 👉 What's the algo you are learning right now? Drop one below 👇
 👉 Land dream data job 🌈 on 𝗗𝗮𝘁𝗮𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄[.]𝗰𝗼𝗺 🚀
 👉 Found this post helpful? Smash 👍 and follow Daniel Lee 📚
+
+
+
+#
+Windows + . : Opens Emoji Window
+Windows+ A: Opens Notification Panel
+Windows+C: Opens Cortana
+Windows+ E: Opens File Explorer 
+Windows + D: Jumps to desktop
+Windows + G: Opens Game Bar
+Windows+ H: Speech to Text
+Windows+ I: Opens Settings
+Windows+ K: Shows available devices to connect display or play audio
+Windows+ L: Locks Windows
+Windows+ P: Project Settings 
+Windows+ Q/S: Taskbar Search
+Windows+ R: Run
+Windows+ U: Opens Display Settings
+Windows+ V: Opens Clipboard
+Windows+ W: Opens Floated Snipping Options
+Windows+ X: Opens Quick Link Menus
+
+#
+Here's a detailed roadmap for those starting out today!
+
+What's covered:
+- Python
+- Machine Learning
+- Maths for ML
+- ML Books
+- MLOps
+- LLMs
+
+Let's go! 🚀
+
+1️⃣ 𝐏𝐲𝐭𝐡𝐨𝐧
+
+If you are new to programming and just getting started.
+
+There isn't a better place to learn Python than David J Malan's CS50p.
+
+Beautiful explanations and great projects.
+It's a complete package ⚡️
+
+Check this out 👇
+https://lnkd.in/enGx-BDY
+
+2️⃣ 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+
+If you are already into programming and want to start with machine learning.
+
+AndrewYNg's Machine learning specialisation has been tested by time and taken by millions.
+
+Check this out 👇
+https://t.co/yEi82fj9Yk
+
+3️⃣ 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬
+
+A free course on deep learning using a modern open-source stack.
+
+Taught by @rasbt, best-selling author, professor & AI educator.
+
+Arguably the best course on DL today!
+
+Check this out👇
+https://lnkd.in/dnZhXAV9
+
+4️⃣ 𝐍𝐋𝐏
+
+NLP Specialization Coursera
+
+A comprehensive curriculum for those interested in Natural Language processing.
+
+Check this out 👇
+https://lnkd.in/d3An9h79
+
+5️⃣ 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐂𝐨𝐝𝐞𝐫𝐬
+
+Get hand-on experience in modeling, best practices for training, evaluating your models.
+
+Covers everything from building a classifier to Stable Diffusion! 🚀
+
+Check this out👇
+fast.ai
+
+6️⃣ 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐬 𝐟𝐨𝐫 𝐌𝐋
+
+You start with this journey and at any point of time, you feel like Maths is holding you back.
+
+This course by Imperial college London should help.
+
+Check this out👇
+https://t.co/M3iTPec0WT
+
+7️⃣ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
+
+If you are a ML practitioner, knowing Statistics can be a great tool in your arsenal.
+
+Sal Khan lectures from Khan Academy are pure gold 🥇
+
+Check this out 👇
+https://t.co/BkGP6UC8eM
+
+8️⃣ 𝐁𝐨𝐨𝐤𝐬 📚
+
+Some good books for those who like to read ⬇️
+
+- Intro to Statistical Learning
+- Deep Learning by Goodfellow
+- Deep Learning with Keras
+- NLP with Transformers by L. Tunstall
+- MLOps by Chip Huyen
+
+9️⃣ 𝐌𝐋𝐎𝐩𝐬
+
+A model is useless, unless you create a service out of it.
+
+Here's one of the best resource to get started with MLOps!
+
+Check this out👇
+madewithml.com
+
+🔟 𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬
+
+Building AI apps using LLMs is going to be a high leverage skill!
+
+Lightning AI offers some of the best resources to masters the LLM landscape today!
+
+Their Lit-GPT is licensed under Apache-2.0! 🔥
+
+Comprehensive LLM tutorials👇
+lightning.ai/pages/blog/
+
+That's a wrap, if you’re interested in:
+
+- Python 🐍
+- ML/MLOps 🛠
+- CV/NLP 🗣
+- LLMs 🧠
+
+Find me → https://lnkd.in/em_V4unu✔️
+Newsletter → https://lnkd.in/dErjwRZa
