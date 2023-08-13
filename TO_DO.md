@@ -276,3 +276,30 @@ That's a wrap, if you’re interested in:
 
 Find me → https://lnkd.in/em_V4unu✔️
 Newsletter → https://lnkd.in/dErjwRZa
+
+#
+6 free online courses by Harvard University, in ML, AI, and Data Science.
+
+◼️ 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡  𝐏𝐲𝐭𝐡𝐨𝐧
+
+Link: https://lnkd.in/gygaeAcY
+
+◼️ 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞: 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+
+Link: https://lnkd.in/gUNVYgGB
+
+◼️ 𝐇𝐢𝐠𝐡-𝐝𝐢𝐦𝐞𝐧𝐬𝐢𝐨𝐧𝐚𝐥 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+
+Link: https://lnkd.in/gv9RV9Zc
+
+◼️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐑
+
+Link: https://lnkd.in/gUY3jd8v
+
+◼️ 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐟𝐨𝐫 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐬
+
+Link: https://lnkd.in/g8gQ6N-H
+
+◼️ 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧
+
+Link: https://lnkd.in/gAdyf6xR
