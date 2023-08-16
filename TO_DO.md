@@ -303,3 +303,34 @@ Link: https://lnkd.in/g8gQ6N-H
 ◼️ 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧
 
 Link: https://lnkd.in/gAdyf6xR
+
+#
+🔘 Data Engineer: Ideal for those who love working with data.
+
+1. Learn to Ingest Data: Acquire data handling skills.
+2. Validate Data: Master data quality checks.
+3. Clean Data: Learn data cleansing techniques.
+4. Standardise Data: Grasp data formatting rules.
+5. Curate Data: Organise and manage data efficiently.
+
+🔘 Data Scientist: Perfect for analytical thinkers.
+
+6. Extract Features: Learn to find patterns.
+7. Select Features: Master feature selection for efficiency.
+8. Identify Candidate Models: Explore model selection techniques.
+
+🔘 Data Scientist & ML Engineer: For coding enthusiasts.
+
+9. Write Code: Develop programming skills.
+10. Train Models: Understand model training processes.
+11. Validate Models: Learn validation techniques.
+12. Evaluate Models: Master evaluation metrics.
+13. Revisit Candidate Models: Grasp model refinement.
+14. Select the Best Model: Learn to choose the suitable model.
+
+🔘 ML Engineer: For those interested in deployment.
+
+15. Package Model: Learn packaging essentials.
+16. Register Model: Master model tracking.
+17. Containerise Model: Understand containerisation.
+18. Deploy Model: Master deployment strategies.
