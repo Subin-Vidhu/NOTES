@@ -334,3 +334,17 @@ Link: https://lnkd.in/gAdyf6xR
 16. Register Model: Master model tracking.
 17. Containerise Model: Understand containerisation.
 18. Deploy Model: Master deployment strategies.
+
+
+#
+
+1. NLP Research Papers Playlist Link: https://www.youtube.com/playlist?list=PLrzE9U41BOPCPXiwm_EE935SE3dh1P2tE
+ 
+2. Large Language Models (LLMs) Related Playlist Link: https://www.youtube.com/playlist?list=PLrzE9U41BOPC8C_dWjgVgjmhb4J1GiUIZ
+
+3. NLP Projects 
+Playlist Link: https://www.youtube.com/playlist?list=PLrzE9U41BOPAZwfa9HiT51UNUHAJmh6lA
+
+4. Transformer Embeddings Playlist Link: https://www.youtube.com/playlist?list=PLrzE9U41BOPAgZw7k8-iVGvKMIKLIC-Ky
+
+5. ML Bootcamp Playlist Link: https://www.youtube.com/playlist?list=PLrzE9U41BOPCifLLV67xU0cn37DaU4b_Z
