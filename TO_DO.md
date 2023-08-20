@@ -348,3 +348,83 @@ Playlist Link: https://www.youtube.com/playlist?list=PLrzE9U41BOPAZwfa9HiT51UNUH
 4. Transformer Embeddings Playlist Link: https://www.youtube.com/playlist?list=PLrzE9U41BOPAgZw7k8-iVGvKMIKLIC-Ky
 
 5. ML Bootcamp Playlist Link: https://www.youtube.com/playlist?list=PLrzE9U41BOPCifLLV67xU0cn37DaU4b_Z
+
+#
+If you are working on a machine learning or data science project, this practical guide series I wrote on Medium should be helpful:
+
+1. Overview of Machine Learning Project Life Cycle
+1.1. End-to-End Machine Learning Workflow [Part 1]
+Link: https://lnkd.in/dNZvF6FN
+
+1.2. End-to-End Machine Learning Workflow [Part 2]
+Link: https://lnkd.in/d5GmF3hc
+
+2. Setting Performance Baseline & Success Metrics
+2.1. How to Set Performance Baseline for Your Machine Learning Project Effectively?
+Link: https://lnkd.in/dQa2CP6V
+
+3. Data Preprocessing & Feature Engineering
+3.1. How To Split Data Effectively for Your Data Science Project 
+Link: https://lnkd.in/dBNzZ6Ri
+
+3.2. Six Reasons Why Your Model Gives Bad Results
+Link: https://lnkd.in/db9jEFQe
+
+4. Modeling
+4.1. Brief Guide for Machine Learning Model Selection
+Link: https://lnkd.in/dMn-ZnmV
+
+4.2. Supervised Machine Learning Modeling
+4.2.1. Practical Guide to Support Vector Machine in Python 
+Link: https://lnkd.in/dqwQG8JY
+
+4.2.2. Practical Guide to Boosting Algorithms In Machine Learning 
+Link: https://lnkd.in/dUdSSTAf
+
+4.3. Unsupervised Machine Learning Modeling
+
+4.3.1. Overview of Unsupervised Machine Learning Tasks & Applications
+Link: https://lnkd.in/dJ_Uns_m
+
+4.3.1 Practical Guide to Dimesnioality Reduction in Python 
+Link: https://lnkd.in/dJnfXArx
+
+4.3.2. How to Find the Optimal Number of Clusters Effectively 
+Link: https://lnkd.in/dpJeEPHE
+
+4.4. Deep Learning Modeling
+4.4.1. Building Complex Models Using Keras Functional API 
+Link: https://lnkd.in/dqyPkW3e
+
+4.4.2 A Quick Setup for Neural Networks Hyperparameters for Best Results
+Link: https://lnkd.in/dJfNkb3g
+
+4.4.3 Building A Recurrent Neural Network From Scratch In Python
+Link: https://lnkd.in/dkg78EPP
+
+5. Model Evaluation
+5.1. Why Should You Not Completely Trust In Test Accuracy?
+Link: https://lnkd.in/dFxPVqZC
+
+6. Machine Learning Explainability
+6.1. Machine Learning Models Are No Longer A Black Box
+Link: https://lnkd.in/dMXr3Uvr
+
+7. MLOps & Model Deployment
+7.1. Step-by-Step Guide on Deploying Yolo3 Model on Fast API 
+Link: https://lnkd.in/dm363QsR
+
+7.2. Common Machine Learning Deployment Patterns & Their Applications
+Link: https://lnkd.in/dTdZWSEn
+
+7.3. Key Challenges of Machine Learning Model Deployment
+Link: https://lnkd.in/dnMaHtBP
+
+7.4. From Detection to Correction: How to Keep Your Production Data Clean and Reliable
+Link: https://lnkd.in/dcH4DZtS
+
+7.5. A Comprehensive Introduction to Machine Learning Experiment Tracking
+Link: https://lnkd.in/d8HjSgGF
+
+You can find all the codes and the data used in this GitHub repository:
+https://lnkd.in/dt7jNbdf
