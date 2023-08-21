@@ -464,3 +464,48 @@ https://lnkd.in/dt7jNbdf
 🤝 Know of an online AI certification that you found useful? Drop me a message so I can explore it too!
 
 Check out my watch list with all of the above pointers (and a much larger list of such resources and more): https://aman.ai/watch
+
+#
+Free courses to learn Data Science in 2023:
+
+1️⃣ Python
+https://lnkd.in/d5Afm9ZV
+
+2️⃣ SQL
+https://lnkd.in/d-jsA-tC
+
+3️⃣ R
+https://lnkd.in/dcTthD4t
+
+4️⃣ PowerBI
+https://lnkd.in/dpA8iVus
+
+5️⃣ Mathematics
+https://lnkd.in/d-p9Mjgj
+
+6️⃣ Tableau
+https://lnkd.in/d-R3_yzQ
+
+7️⃣ Excel
+https://lnkd.in/dRTdrmaT
+
+8️⃣ Probability
+https://lnkd.in/dr3DWUD8
+
+9️⃣ Statistics
+https://lnkd.in/dr3DWUD8
+
+🔟 Linear Algebra
+https://lnkd.in/dr3DWUD8
+
+11. Machine Learning
+https://lnkd.in/dR5XkbCi
+
+12. Deep Learning
+https://lnkd.in/djYxq8qX
+
+13. Data Analysis
+https://lnkd.in/duauUYDs
+
+14. Data Visualization
+https://lnkd.in/d4-N6-s2
