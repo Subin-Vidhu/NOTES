@@ -428,3 +428,39 @@ Link: https://lnkd.in/d8HjSgGF
 
 You can find all the codes and the data used in this GitHub repository:
 https://lnkd.in/dt7jNbdf
+
+#
+🎓 The best online AI certifications
+
+- Looking to do more than online MOOCs but don’t have the resources to enroll for a full degree? Here’s my recommendations on the best online AI certifications from some of the leading US universities:
+
+📚 Stanford University
+🔹 Stanford Artificial Intelligence Graduate Program (with courses from Stanford University School of Engineering): https://lnkd.in/gDQZZiZj
+
+📚 Georgia Institute of Technology
+🔹 Online Master of Science in CS with a specialization in ML (full CS degree, but fraction of the normal cost!): https://lnkd.in/g6b8nySW
+
+📚 Columbia University in the City of New York
+🔹 MicroMasters Program in Artificial Intelligence: https://lnkd.in/gZXipAah
+
+📚 Caltech
+🔹 Artificial Intelligence & Machine Learning Bootcamp (6 months): https://lnkd.in/gt4JxEpF
+
+📚 The University of Texas at Austin
+🔹 PG Program in Artificial Intelligence & Machine Learning: https://lnkd.in/guxZZQKR
+
+📚 Wharton Online
+🔹 AI for Decision Making — Business Strategies and Applications (with courses from The Wharton School): https://lnkd.in/gsDZ7iN3
+
+📚 Drexel University
+🔹AI & Machine Learning Certificate: https://lnkd.in/gtwETKeh
+
+📚 Northwestern University
+🔹 Artificial Intelligence Certificate Program: https://lnkd.in/gdkUZ3K9
+
+📚 University of South Carolina
+🔹 Artificial Intelligence Graduate Certificate: https://lnkd.in/ggQbDFut
+
+🤝 Know of an online AI certification that you found useful? Drop me a message so I can explore it too!
+
+Check out my watch list with all of the above pointers (and a much larger list of such resources and more): https://aman.ai/watch
