@@ -513,3 +513,52 @@ https://lnkd.in/d4-N6-s2
 # Docker
 
 https://media.licdn.com/dms/image/D4D22AQH2v8hTTaQQHg/feedshare-shrink_1280/0/1692704059965?e=1695859200&v=beta&t=V7_uJ2f9PeHdsZAoeqEXY1uKuOSxI6u7Vc0760eS6-g
+
+#
+📌 𝐀𝐩𝐩𝐥𝐢𝐞𝐝 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧
+Become a Data Scientist in just 6 hours with this hands-on program! 📊📈
+
+🔗 Certificate: https://lnkd.in/dTf3QUMb
+
+📌 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠
+Unlock the power of the internet for your business or career in just 40 hours! 🌐💼
+
+🔗 Certificate: https://lnkd.in/df_2wSDX
+
+📌 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝟒 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧
+Elevate your marketing game with 5 hours of training on Google Analytics 4! 📈📉
+
+🔗 Certificate: https://lnkd.in/ddjFSQcM
+
+📌 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐝𝐬 𝐒𝐞𝐚𝐫𝐜𝐡 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧
+Master Google Search campaigns and showcase your expertise in 4 hours! 📣🔎
+
+🔗 Certificate: https://lnkd.in/duH6e3Z4
+
+📌 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐝𝐬 𝐃𝐢𝐬𝐩𝐥𝐚𝐲 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧
+Learn to optimize campaigns and shine in Google Display in just 3 hours! 🌠🖥️
+
+🔗 Certificate: https://lnkd.in/dDCSAwSk
+
+📌 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐌𝐮𝐬𝐢𝐜 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧
+Rock the online world with 4 hours of advanced YouTube Music skills! 🎶🎤
+
+🔗 Certificate: https://lnkd.in/dRtUDUmS
+
+📌 𝐆𝐞𝐭 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐆𝐨𝐨𝐠𝐥𝐞 𝐌𝐚𝐩𝐬 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦
+Dive into interactive web maps and project management with Google Maps! 🗺️🌍
+
+🔗 Course: https://lnkd.in/dmfKbWnu
+
+📌 𝐁𝐮𝐢𝐥𝐝 𝐚𝐩𝐩𝐬 𝐰𝐢𝐭𝐡 𝐅𝐥𝐮𝐭𝐭𝐞𝐫
+Unleash your creativity with Flutter and create stunning apps across platforms! 📲
+
+🔗 Course: https://lnkd.in/dAJ4tXy8
+
+📌 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐒𝐐𝐋
+Harness the power of SQL for data control in this fundamental course! 📊🔍
+
+🔗 Course: https://lnkd.in/dtbGAEu4
+
+📌 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐈 [𝐌𝐞𝐠𝐚 𝐂𝐨𝐮𝐫𝐬𝐞]
+Become an AI pro with this comprehensive course on generative AI! 🤖🔥
