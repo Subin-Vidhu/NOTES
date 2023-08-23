@@ -509,3 +509,7 @@ https://lnkd.in/duauUYDs
 
 14. Data Visualization
 https://lnkd.in/d4-N6-s2
+
+# Docker
+
+https://media.licdn.com/dms/image/D4D22AQH2v8hTTaQQHg/feedshare-shrink_1280/0/1692704059965?e=1695859200&v=beta&t=V7_uJ2f9PeHdsZAoeqEXY1uKuOSxI6u7Vc0760eS6-g
