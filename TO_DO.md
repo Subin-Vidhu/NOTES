@@ -562,3 +562,6 @@ Harness the power of SQL for data control in this fundamental course! 📊🔍
 
 📌 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐈 [𝐌𝐞𝐠𝐚 𝐂𝐨𝐮𝐫𝐬𝐞]
 Become an AI pro with this comprehensive course on generative AI! 🤖🔥
+
+# Git cheat sheet
+https://media.licdn.com/dms/image/D5622AQFeDUQWbj9uWA/feedshare-shrink_1280/0/1692736813158?e=1695859200&v=beta&t=FJvbZhM2phalx62lGFD355l5IoY1YOLSwqIzq0K21xM
