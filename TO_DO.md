@@ -565,3 +565,23 @@ Become an AI pro with this comprehensive course on generative AI! 🤖🔥
 
 # Git cheat sheet
 https://media.licdn.com/dms/image/D5622AQFeDUQWbj9uWA/feedshare-shrink_1280/0/1692736813158?e=1695859200&v=beta&t=FJvbZhM2phalx62lGFD355l5IoY1YOLSwqIzq0K21xM
+
+# 
+🔐 Secure your API with these 16 Practices
+
+1️⃣ Authentication 🕵️‍♀️ - Verifies the identity of users accessing APIs.
+ 2️⃣ Authorization 🚦 - Determines permissions of authenticated users.
+ 3️⃣ Data Redaction 🖍️ - Obscures sensitive data for protection.
+ 4️⃣ Encryption 🔒 - Encodes data so only authorized parties can decode it.
+ 5️⃣ Error Handling ❌ - Manages responses when things go wrong, avoiding revealing sensitive info.
+ 6️⃣ Input Validation & Data Sanitization 🧹 - Checks input data and removes harmful parts.
+ 7️⃣ Intrusion Detection Systems 👀 - Monitor networks for suspicious activities.
+ 8️⃣ IP Whitelisting 📝 - Permits API access only from trusted IP addresses.
+ 9️⃣ Logging and Monitoring 🖥️ - Keeps detailed logs and regularly monitors APIs.
+🔟 Rate Limiting ⏱️ - Limits user requests to prevent overload.
+1️⃣1️⃣ Secure Dependencies 📦 - Ensures third-party code is free from vulnerabilities.
+1️⃣2️⃣ Security Headers 📋 - Enhances site security against types of attacks like XSS.
+1️⃣3️⃣ Token Expiry ⏳ - Regularly expiring and renewing tokens prevents unauthorized access.
+1️⃣4️⃣ Use of Security Standards and Frameworks 📘 - Guides your API security strategy.
+1️⃣5️⃣ Web Application Firewall 🔥 - Protects your site from HTTP-specific attacks.
+1️⃣6️⃣ API Versioning 🔄 - Maintains different versions of your API for seamless updates.
