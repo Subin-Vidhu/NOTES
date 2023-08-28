@@ -649,3 +649,6 @@ https://lnkd.in/gGqAfxBH
 
 👉Large Language Models by ETH Zürich
 https://lnkd.in/gTZKep2p
+
+#
+https://huggingface.co/chat
