@@ -621,3 +621,31 @@ The best API architectural style for a particular application will depend on the
 4. The scalability requirements of the API
 
 Once you have considered these factors, you can start to narrow down your choices and choose the API architectural style that is best suited for your application.
+
+#
+Free LLM Courses you can take!
+
+Love it or not, the Large Language Model (LLM) will play a big part in the next decade of our future.
+
+Here are several courses you can enrol for free:
+
+👉Cohere LLM University
+https://lnkd.in/gufSpXF4
+
+👉Hugging Face Course
+https://lnkd.in/g8jFrnWN
+
+👉Building LLM-Powered Apps Course
+https://lnkd.in/g-kvkZCZ
+
+👉Large Language Models: Application through Production
+https://lnkd.in/gMYK7ubd
+
+👉LangChain & Vector Databases in Production
+https://lnkd.in/g6n4yACv
+
+👉Understanding Large Language Models (COS 597G)
+https://lnkd.in/gGqAfxBH
+
+👉Large Language Models by ETH Zürich
+https://lnkd.in/gTZKep2p
