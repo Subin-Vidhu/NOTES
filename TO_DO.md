@@ -652,3 +652,10 @@ https://lnkd.in/gTZKep2p
 
 #
 https://huggingface.co/chat
+
+#
+Stanford just released the updated lectured for the extremely popular CS229: Machine Learning (Spring 2022). I attended this class at Stanford summer 2017 and it completely changed my view on ML and its potential.
+
+It covers foundational topics such as logistic regression, Naive Bayes, kernels, neural networks, bias-variance, regularization, k-means, expectation maximization, and more.
+
+YouTue Lectures: https://lnkd.in/gc4wwep3
