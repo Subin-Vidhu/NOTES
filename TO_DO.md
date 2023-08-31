@@ -659,3 +659,6 @@ Stanford just released the updated lectured for the extremely popular CS229: Mac
 It covers foundational topics such as logistic regression, Naive Bayes, kernels, neural networks, bias-variance, regularization, k-means, expectation maximization, and more.
 
 YouTue Lectures: https://lnkd.in/gc4wwep3
+
+#
+https://github.com/arun-arunisto/Image_Generate_Using_Text_Clipdrop
