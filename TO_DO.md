@@ -662,3 +662,7 @@ YouTue Lectures: https://lnkd.in/gc4wwep3
 
 #
 https://github.com/arun-arunisto/Image_Generate_Using_Text_Clipdrop
+
+#
+https://www.philschmid.de/gptq-llama
+
