@@ -666,3 +666,25 @@ https://github.com/arun-arunisto/Image_Generate_Using_Text_Clipdrop
 #
 https://www.philschmid.de/gptq-llama
 
+#
+Looking to upskill in data science & ML engineering? I recommend these 5 books 📚👇
+
+🔹 Seven Databases in Seven Weeks
+
+I would say this is a great crash course for anyone who just started learning about databases. This book covers the core concepts like the CAP theorem and an array of databases like PostgreSQL, Mongo, and Redis.
+
+🔹 Machine Learning Design Patterns
+
+If you want to learn about how to design and deploy ML solutions with best practices in mind, check out this book. Written by ML SWEs in Google, they cover 30 design patterns from data preparation, model development and model deployment based on real-life cases.
+
+🔹 Designing Data-Intensive Application
+
+ML system design at its core is building a component with reliability, scalability, and maintainability in mind. Learning about the principles and application of system designs will advance your knowledge of creating an ML model in scale.
+
+🔹 Fundamentals of Data Engineering
+
+If you want to take more ownership of the data pipeline required to serve your analytics and machine learning projects, check out this book. It covers the fundamentals such as ETL, data warehouse, batch processing, and data streaming.
+
+🔹 Designing Machine Learning Systems
+
+This is a great book for anyone who wants to learn about ML in production. It covers the best practice in model deployment, prediction service, monitoring and much more.
