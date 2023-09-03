@@ -688,3 +688,8 @@ If you want to take more ownership of the data pipeline required to serve your a
 🔹 Designing Machine Learning Systems
 
 This is a great book for anyone who wants to learn about ML in production. It covers the best practice in model deployment, prediction service, monitoring and much more.
+
+#
+ML Engineer
+
+https://media.licdn.com/dms/image/D4D22AQEu9hg36IlCrw/feedshare-shrink_1280/0/1693661594084?e=1696464000&v=beta&t=0Iqz628JEvbLmx2mBgBelzinROP2u4IibVjJt-7NIXk
