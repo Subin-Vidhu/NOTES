@@ -693,3 +693,6 @@ This is a great book for anyone who wants to learn about ML in production. It co
 ML Engineer
 
 https://media.licdn.com/dms/image/D4D22AQEu9hg36IlCrw/feedshare-shrink_1280/0/1693661594084?e=1696464000&v=beta&t=0Iqz628JEvbLmx2mBgBelzinROP2u4IibVjJt-7NIXk
+
+#
+https://mlspring.beehiiv.com/p/minimal-study-plan-machine-learning
