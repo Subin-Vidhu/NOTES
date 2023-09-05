@@ -717,3 +717,34 @@ And, these function like a database to perform a feature selection by doing a fu
 The model still needs to understand which input in the sequence comes first. So, another component introduced is 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗘𝗻𝗰𝗼𝗱𝗶𝗻𝗴. Simply put - this is a pre-computed matrix where the values are generated from sin and cosine functions based on row and column indices. Summing this positional encoding to the input vector encodes the temporal relationship among inputs in a sequence.
 
 In the overall Transformer model, there are other components like encoder-decoder model structure, residual connection, normalization, embedding layers, and feed-forward layer.
+
+
+#
+Learning materials for ML and DL. From beginner to advanced
+
+6 curated, classic learning materials for ML and DL. From beginner to advanced. 
+
+Ebooks are too old-school? Not for me :)
+
+🟢This book = (Statistics + Machine Learning Methods and Algorithms + a touch of Deep Learning) * Python
+https://lnkd.in/gbteD753
+
+🟢A good and gentle material to give an overview of what automated machine learning is, as well as method, system and workflow.
+https://lnkd.in/gU7Zf-rS
+
+🟢Andrew Ng's work. His writing and teaching style is smooth and informal while maintaining precision.
+https://lnkd.in/ga_n8UuS
+
+🟢Deep Learning Masterpiece by Andrew Ng
+https://lnkd.in/gUNQsxmH
+
+🟢Understand the Backpropagation of Deep Learning clearly.
+https://lnkd.in/g4PD-N5x
+
+🟢Machine Learning Projects in Python, time to get hands dirty
+https://lnkd.in/gCabN_sY
+
+🔸A visual introduction to deep learning, 42 pages. Explain concepts in visuals. 
+
+Good material for beginners new to deep learning, or machine learning in general. Which doesn’t include math derivations and code examples, the basic math is kept to a minimum.
+https://lnkd.in/gqiU4Twf
