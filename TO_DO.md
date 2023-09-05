@@ -696,3 +696,24 @@ https://media.licdn.com/dms/image/D4D22AQEu9hg36IlCrw/feedshare-shrink_1280/0/16
 
 #
 https://mlspring.beehiiv.com/p/minimal-study-plan-machine-learning
+
+#
+𝗖𝗵𝗮𝘁𝗚𝗣𝗧 and most LLMs all contain the 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲. How does it work? Let's understand the main idea👇
+
+Remember RNN models? They were once the most popular architecture on a host of sequence-to-sequence problems like text translations and summarizations.
+
+But, RNNs contained a number of issues, and it was largely driven by the fact that RNNs use a hidden state to encode relationships between previous and current inputs to generate predictions. And, this hidden state is dependent on the hidden state of the previous timestamp.
+
+And, there lie the major issues:
+
+🔹 Vanishing Gradient - Given the dependence of prior hidden states, the gradient of the loss function with respect to weights diminishes to 0.
+🔹 Long-Range Dependencies - Inputs earlier in the sequence are underweighted in predicting outputs.
+🔹 Inefficiency Computation - Dependency of hidden state from previous steps makes the model training unparallelizable.
+
+So, the Transformer model introduced the 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺, which replaces the hidden state with Query (Q), Key (K), and Value (V). The Q, K, V are matrices composed of input x weights.
+
+And, these function like a database to perform a feature selection by doing a fuzzy match between a query and the most relevant keys, and then weighing the values based on the match scores. (I will follow up more on the math via video/post)
+
+The model still needs to understand which input in the sequence comes first. So, another component introduced is 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗘𝗻𝗰𝗼𝗱𝗶𝗻𝗴. Simply put - this is a pre-computed matrix where the values are generated from sin and cosine functions based on row and column indices. Summing this positional encoding to the input vector encodes the temporal relationship among inputs in a sequence.
+
+In the overall Transformer model, there are other components like encoder-decoder model structure, residual connection, normalization, embedding layers, and feed-forward layer.
