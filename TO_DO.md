@@ -748,3 +748,51 @@ https://lnkd.in/gCabN_sY
 
 Good material for beginners new to deep learning, or machine learning in general. Which doesn’t include math derivations and code examples, the basic math is kept to a minimum.
 https://lnkd.in/gqiU4Twf
+
+
+#
+Python
+
+Here are some notable Python libraries and frameworks:
+
+1. NumPy: A fundamental library for numerical computing with support for multi-dimensional arrays and mathematical functions.
+
+2. Pandas: Provides data structures like DataFrames and Series for data manipulation, analysis, and exploration.
+
+3. Matplotlib: A widely-used library for creating static, animated, and interactive data visualizations.
+
+4. Scikit-Learn: Offers tools for machine learning, including classification, regression, clustering, and dimensionality reduction.
+
+5. TensorFlow: An open-source machine learning framework developed by Google for deep learning tasks.
+
+6. PyTorch: Another popular deep learning framework known for its flexibility and dynamic computation graph.
+
+7. Django: A high-level web framework for building robust, scalable web applications.
+
+8. Flask: A lightweight and flexible micro web framework for building web applications and APIs.
+
+9. FastAPI: A modern, fast, and easy-to-use web framework for building APIs with automatic documentation.
+
+10. SQLAlchemy: Provides an Object-Relational Mapping (ORM) for working with databases in a Pythonic way.
+
+11. Requests: A popular library for making HTTP requests, simplifying interactions with web services.
+
+12. Beautiful Soup: A library for web scraping and parsing HTML and XML documents.
+
+13. OpenCV: An open-source computer vision library with tools for image and video analysis.
+
+14. Pillow: A library for image processing and manipulation.
+
+15. NLTK (Natural Language Toolkit): A library for natural language processing and text analysis.
+
+16. Flask-RESTful: An extension for Flask that simplifies the creation of RESTful APIs.
+
+17. Pygame: A library for creating 2D games and multimedia applications.
+
+18. Celery: A distributed task queue framework for handling asynchronous and distributed tasks.
+
+19. Twisted: An event-driven networking engine for building networked applications.
+
+20. Streamlit: A framework for creating web apps for data science and machine learning projects with minimal code.
+
+These libraries and frameworks empower Python developers to tackle a wide range of tasks efficiently and effectively, from data analysis and machine learning to web development and beyond.
