@@ -796,3 +796,30 @@ Here are some notable Python libraries and frameworks:
 20. Streamlit: A framework for creating web apps for data science and machine learning projects with minimal code.
 
 These libraries and frameworks empower Python developers to tackle a wide range of tasks efficiently and effectively, from data analysis and machine learning to web development and beyond.
+
+#
+10 AI Tools that cost $0 & will save you 100+ hours of time:
+
+1. Interviewgpt AI ➝ Interview questions. Prepare in the best way.
+
+2. tl;dv ➝ ChatGPT for meetings. Record meeting with autoinsights. An AI tool that will make your meetings 10X more productive.
+
+3. ResumAI.(com) & Rezi.(ai) ➝ AI resume writing assistant & resume maker
+
+3. Diagram ➝ Create effective design
+
+4. Magicslides.app ➝ Prepare slides
+
+5. Stock Image ai ➝ You can generate book cover, logo, stock image with this AI tool
+
+6. fixmyresume .xyz ➝ Fix your resume
+
+7. Synthesia ➝ Create AI videos by simply typing in text
+
+7. Krisp.(ai) ➝ Krisp’s AI removes background voices, noises and echo.
+
+8. CodeMate Ai ➝ Grammarly for coders
+
+9. Longshot.ai ➝ Idea to a blog in minutes
+
+10. Murf AI ➝ Changes text to AI generated voices
