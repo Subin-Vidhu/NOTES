@@ -822,4 +822,56 @@ These libraries and frameworks empower Python developers to tackle a wide range 
 
 9. Longshot.ai ➝ Idea to a blog in minutes
 
-10. Murf AI ➝ Changes text to AI generated voices
+10. Murf AI ➝ Changes text to AI generated voices.
+
+#
+Being self-taught, I came across several courses and books, but these are some of my favourites! 📚
+
+1️⃣ 𝐈𝐒𝐋
+
+Tested by time and read by millions, the bible for statistical & classical machine learning.
+
+Mathematical concepts are explained in a beginner friendly & intuitive way.
+
+A must read for anyone starting in machine learning. 👍
+
+2️⃣ 𝐃𝐞𝐬𝐢𝐠𝐧𝐢𝐧𝐠 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬
+
+Machine learning systems are both complex and unique
+
+Certain best practices must be followed while building large ML systems.
+
+This book is one of the best out there on MLOps.
+
+3️⃣ 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡𝐢𝐧𝐠 𝐚𝐥𝐦𝐨𝐬𝐭 𝐚𝐧𝐲 𝐌𝐋 𝐏𝐫𝐨𝐛𝐥𝐞𝐦
+
+Written by Abhishek Thakur, World's First 4x Kaggle Grand Master.
+
+It's a book for coders. 👨‍💻
+
+Abhishek shares all the tricks of trade to successfully tackle a machine learning problem.
+
+4️⃣ 𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬
+
+Truly a delight for coders who want to learn & build with NLP!
+
+Built around the HuggingFace ecosystem, the book carries latest and greatest in the filed of NLP!
+
+5️⃣ 𝐌𝐋 𝐰𝐢𝐭𝐡 𝐏𝐲𝐓𝐨𝐫𝐜𝐡 & 𝐒𝐜𝐢𝐤𝐢𝐭-𝐋𝐞𝐚𝐫𝐧
+
+
+I recently bought this one, and have gone through several topics on need-basis!
+
+It's a hands on book that not only teaches you machine learning but is also a great place to master PyTorch 🔥
+
+6️⃣ 𝐓𝐡𝐞 𝐂𝐚𝐫𝐭𝐨𝐨𝐧 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
+
+I thoroughly enjoyed the illustrious examples it presents.
+
+And found it to be an interesting and fun approach to teaching the subject.
+
+Recommend it to anyone interested in the subject!
+
+7️⃣ 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐃𝐞𝐬𝐢𝐠𝐧 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
+
+Written by 3 Google Engineers, the book captures best practices and solutions to recurring problems in machine learning.
