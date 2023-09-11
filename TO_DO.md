@@ -875,3 +875,26 @@ Recommend it to anyone interested in the subject!
 7️⃣ 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐃𝐞𝐬𝐢𝐠𝐧 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
 
 Written by 3 Google Engineers, the book captures best practices and solutions to recurring problems in machine learning.
+
+#
+
+➡️ Awesome LLM - It provides a comprehensive collection of papers, tools, and frameworks that can help you understand and work with LLMs - https://lnkd.in/eR2JwbPV
+
+➡️ Awesome LLMOps - A curated list of the best LLMOps tools for developers, providing resources for building robust LLM apps, ML observability, and more - https://lnkd.in/g_k_8KpQ
+
+➡️ LLM Survey - A comprehensive survey of the potential security risks in LLM applications, serving as a reference for developers and security professionals - https://lnkd.in/gzpUMnAQ
+
+➡️ LLMs Practical Guide - A practical guide for working with LLMs, providing insights, tips, and best practices for different use cases - 
+https://lnkd.in/gJtVfThX
+
+➡️ Awesome Decentralized LLM - A collection of resources for building decentralized LLM applications, exploring the potential of decentralization in language models - https://lnkd.in/gFg5ZcDs
+
+➡️ Open LLM - An open-source leaderboard and benchmark platform for LLMs and chatbots, providing a standardized comparison of different models - https://lnkd.in/gDwDrxb3
+
+➡️ LLM Zoo - A project focused on democratizing access to ChatGPT and making it more accessible for developers - https://lnkd.in/gPpHuC2s
+
+➡️ LangChain - A framework for building applications with LLMs through composability, enabling developers to create complex workflows and interactions - https://lnkd.in/gu7ntFQH
+
+➡️ Awesome LangChain - A curated list of resources and tools for working with LangChain, including libraries, frameworks, and example projects - https://lnkd.in/gMV4Zexi
+
+➡️ Awesome Graph LLM - A collection of graph-based LLM resources, exploring the application of graph data structures and algorithms in language models - https://lnkd.in/gtdhKhjH
