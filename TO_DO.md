@@ -898,3 +898,72 @@ https://lnkd.in/gJtVfThX
 ➡️ Awesome LangChain - A curated list of resources and tools for working with LangChain, including libraries, frameworks, and example projects - https://lnkd.in/gMV4Zexi
 
 ➡️ Awesome Graph LLM - A collection of graph-based LLM resources, exploring the application of graph data structures and algorithms in language models - https://lnkd.in/gtdhKhjH
+
+#
+Introducing 𝐃𝐞𝐜𝐢𝐋𝐌-𝟔𝐁! 🚀
+
+A language model that efficiently generates text at blazing-fast speeds
+
+Here's what makes it special:
+
+🔹Performance Metrics that Speak Volumes:
+
+DeciLM-6B has set a new gold standard, outperforming Llama 2 7B's throughput by an astonishing 15 times.
+
+This remarkable achievement is attributed to Deci's cutting-edge neural architecture search engine, AutoNAC
+
+But wait, there's more!
+
+When DeciLM-6B is combined with Deci AI's inference SDK (Infery), the throughput soars even higher. (more details to follow)
+
+🔸A Pioneering Architecture:
+
+DeciLM brings a unique, decoder-only transformer architecture that leverages variable Grouped-Query Attention (GQA).
+
+And it offers dynamic group sizes for more adaptability.
+
+Image below provides and illustration of how GQA looks alongside multi-headed attention!
+
+🔹Remarkable Benchmarking results:
+
+DeciLM competes with or surpasses Llama 2 7B, a top performer on benchmarks like ARC, HellaSwag, MMLU, and TruthfulQA.
+
+Despite having fewer parameters, DeciLM holds its ground on the Hugging Face Open LLM Leaderboard .
+
+🔸DeciLM + Infery LLM = 🚀
+
+DeciLM combined with DeciAI's Inference SDK is a no match for anyone.
+
+- Infery's Optimized CUDA Kernels:
+
+The custom kernels are optimized for grouped query attention, prefill, and generation stages.
+
+- Advanced Selective Quantization:
+
+Apply FP16 & INT8 quantization selectively while achieving FP32 quality.
+
+Infery LLM (Fast inference SDK) 👇
+https://lnkd.in/dZFC7p5E
+
+
+🔹Some key Details:
+
+Parameters: 5.7 Billion
+Layers: 32
+Heads: 32
+Sequence Length: 4096 tokens
+Hidden Size: 4096
+Attention Mechanism: Variable Grouped-Query Attention (GQA)
+
+The model is now available on HuggingFace🤗!
+
+Here are all the relevant links!
+
+Starter Notebook 👇
+https://lnkd.in/dhFz8SgB
+
+HugginFace model 👇
+https://lnkd.in/dat7yfhe
+
+HF Spaces Demo 👇
+https://lnkd.in/d5HdGcZu
