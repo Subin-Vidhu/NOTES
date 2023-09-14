@@ -967,3 +967,7 @@ https://lnkd.in/dat7yfhe
 
 HF Spaces Demo 👇
 https://lnkd.in/d5HdGcZu
+
+
+#
+https://github.com/KillianLucas/open-interpreter/
