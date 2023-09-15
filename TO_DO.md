@@ -971,3 +971,44 @@ https://lnkd.in/d5HdGcZu
 
 #
 https://github.com/KillianLucas/open-interpreter/
+
+#
+📘 **Data Engineer**
+
+For those who set the data foundation. 
+
+- 📊 Design and maintain databases
+- ✅ Ensure data is accessible and optimized
+- 🧹 Clean and preprocess raw data 
+- 📐 Organize data pipelines for flow and usage
+- 🗂️ Set up infrastructure for big data tools 
+
+📗 **Data Scientist**
+
+Those who derive insights from data.
+
+- 🔍 Analyze large sets of structured and unstructured data
+- 🚀 Create predictive and prescriptive models
+- 🔄 Use statistical tools to interpret data results  
+- 💡 Offer insights to help inform business decisions
+- 🧪 Design experiments and A/B tests
+
+📙 **ML Engineer**
+
+For those making AI possible.
+
+- 💻 Develop algorithms based on data insights
+- 🤖 Train, fine-tune, and deploy machine learning models
+- ✔️ Optimize solutions for performance and scalability 
+- 📏 Collaborate with Data Scientists to implement models
+- 🌐 Ensure the model's smooth operation in production
+
+📒 **Data Analyst**
+
+Interpreters of business data.
+
+- 📈 Examine large datasets to spot trends 
+- 📝 Convert complex findings into understandable visuals
+- 🚀 Assist in decision-making by providing actionable insights
+- 🧐 Use statistical methods to analyze data
+- 📋 Prepare reports to inform team and stakeholders
