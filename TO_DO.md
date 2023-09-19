@@ -1012,3 +1012,6 @@ Interpreters of business data.
 - 🚀 Assist in decision-making by providing actionable insights
 - 🧐 Use statistical methods to analyze data
 - 📋 Prepare reports to inform team and stakeholders
+
+#
+https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1 
