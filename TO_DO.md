@@ -1015,3 +1015,9 @@ Interpreters of business data.
 
 #
 https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1 
+
+#
+
+Vision transformers now outperform convolutional neural networks, right? Researchers behind a new version of ConvNeXt say “not so fast.”
+
+Read our summary of the paper in #TheBatch: https://hubs.la/Q022jwmd0
