@@ -1021,3 +1021,20 @@ https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-a
 Vision transformers now outperform convolutional neural networks, right? Researchers behind a new version of ConvNeXt say “not so fast.”
 
 Read our summary of the paper in #TheBatch: https://hubs.la/Q022jwmd0
+
+#
+
+ compiled PyTorch AI model to run offline on iOS & Android! Chats stay private, free, & data compliant. I've been building this as part of my medical advice LLM project titled Doctor Dignity.
+
+Tutorial Steps
+1: LLM Inference on Intel CPU
+2: CUDA on Nvidia GPU
+3: Metal on Apple GPU
+4: Vulkan on Android GPU
+5: Tensor Virtual Machine on all GPUs
+
+Full Video:
+https://lnkd.in/gaKtCmUu
+
+Code:
+https://lnkd.in/g7z3gbax
