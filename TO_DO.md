@@ -1043,3 +1043,7 @@ https://lnkd.in/g7z3gbax
 
 Hands-On Large Language Models
 by Jay Alammar, Maarten Grootendorst
+
+#
+
+https://github.com/facebookresearch/codellama
