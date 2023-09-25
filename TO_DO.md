@@ -1051,3 +1051,16 @@ https://github.com/facebookresearch/codellama
 #
 
 https://youtu.be/LhnCsygAvzY?si=cZGO8PCL2-JYzPTr
+
+#
+
+🚀 Excited to introduce my latest creation: Ankle-Foot Fracture Detector! Using cutting-edge technology, this system analyzes CT scans from 3 views for accurate diagnosis. It includes a Foot & Ankle Classifier, Grad-CAM generator, and more.
+
+🔗 Download models https://lnkd.in/dbn_jc56.
+📚 Training notebooks https://lnkd.in/dKJXADVq.
+
+🌐 I've also built a sleek web app using Flask for easy deployment. Check it out and let me know your thoughts!
+
+💡 Innovating healthcare, one fracture at a time. 🩺💪
+
+GitHub Link: https://lnkd.in/dv4B4VY9
