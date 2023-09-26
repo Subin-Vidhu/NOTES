@@ -1064,3 +1064,7 @@ https://youtu.be/LhnCsygAvzY?si=cZGO8PCL2-JYzPTr
 💡 Innovating healthcare, one fracture at a time. 🩺💪
 
 GitHub Link: https://lnkd.in/dv4B4VY9
+
+#
+
+https://youtu.be/jkrNMKz9pWU?si=Ew3QGsvMPfz-R7g4
