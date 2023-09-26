@@ -1068,3 +1068,56 @@ GitHub Link: https://lnkd.in/dv4B4VY9
 #
 
 https://youtu.be/jkrNMKz9pWU?si=Ew3QGsvMPfz-R7g4
+
+#
+
+FREE Certification courses from IBM:
+
+No prerequisites or fees required.
+
+Here are 15 FREE courses you don't want to miss:
+
+1. Python for Data Science
+https://lnkd.in/dYDPhs8f
+
+2. Machine Learning with Python
+https://lnkd.in/dfuDGN45
+
+3. Docker Essentials: A Developer Introduction
+https://lnkd.in/djGyjuT6
+
+4. Data Visualization with Python
+https://lnkd.in/d-GASZJZ
+
+5. Data Science 101
+https://lnkd.in/dnawe99K
+
+6. Intro to Cloud
+https://lnkd.in/dm7zbKaF
+
+7. Introduction to Containers, Kubernetes, and OpenShift V2
+https://lnkd.in/dXuhuHcP
+
+8. Deep Learning Fundamentals
+https://lnkd.in/d_rQgiZK
+
+9. Data Science Tools
+https://lnkd.in/g6bc-2si
+
+10. IBM: AI for Everyone: Master the Basics
+https://lnkd.in/g7uudsMh
+
+11. Introduction to Cloud Computing
+https://lnkd.in/gq7frSWG
+
+12. Deep Learning with Python and PyTorch
+https://lnkd.in/gGng9equ
+
+13. DevOps Basics for Everyone
+https://lnkd.in/gtKbwf9y
+
+14. Python for AI & Development Project
+https://lnkd.in/gvfJmvDt
+
+15. Data Engineering Basics for Everyone
+https://lnkd.in/gD2GsT8c
