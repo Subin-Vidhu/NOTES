@@ -1127,4 +1127,4 @@ https://lnkd.in/gD2GsT8c
 https://mistral.ai/news/announcing-mistral-7b/
 
 #
-![MistralAI](image-1.png)
+https://www.coursera.org/articles/study-habits?utm_campaign=sm%20content%20posts&utm_content=264155319&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
