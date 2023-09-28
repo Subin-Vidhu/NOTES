@@ -1121,3 +1121,7 @@ https://lnkd.in/gvfJmvDt
 
 15. Data Engineering Basics for Everyone
 https://lnkd.in/gD2GsT8c
+
+#
+
+https://mistral.ai/news/announcing-mistral-7b/
