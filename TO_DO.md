@@ -1125,3 +1125,6 @@ https://lnkd.in/gD2GsT8c
 #
 
 https://mistral.ai/news/announcing-mistral-7b/
+
+#
+![MistralAI](image-1.png)
