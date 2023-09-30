@@ -1128,3 +1128,71 @@ https://mistral.ai/news/announcing-mistral-7b/
 
 #
 https://www.coursera.org/articles/study-habits?utm_campaign=sm%20content%20posts&utm_content=264155319&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
+
+#
+
+Harvard University is offering free online courses.
+
+There is no fee or application needed.
+
+Here are 15 FREE courses you don't want to miss:
+
+1. Introduction to Computer Science
+
+🔗 https://lnkd.in/gp9WvEup
+
+2. Introduction to Game Development
+
+🔗 https://lnkd.in/gdJvbe6n
+
+3. Introduction to Programming with Scratch
+
+🔗 https://lnkd.in/g6J2KuhD
+
+4. Web Programming with Python and JavaScript
+
+🔗 https://lnkd.in/gzcagQqp
+
+5. Computer Science for Business Professionals
+
+🔗 https://lnkd.in/gMFK47PR
+
+6. CS50 for Lawyers
+
+🔗 https://lnkd.in/gi9tUjTE
+
+7. Introduction to Artificial Intelligence with Python
+
+🔗 https://lnkd.in/gDsPqv9B
+
+8. Introduction to Programming with Python
+
+🔗 https://lnkd.in/gAZVzHrR
+
+9. Data Science: Machine Learning
+
+🔗 https://lnkd.in/gN2aqYAJ
+
+10. Data Science: Productivity Tools
+
+🔗 https://lnkd.in/g4ThxhUD
+
+11. Understanding Technology
+
+🔗 https://lnkd.in/dwThBANS
+
+12. Mobile App Development with React Native
+
+🔗 https://lnkd.in/dHWf4Gip
+
+13. Introduction to Data Science with Python
+
+🔗 https://lnkd.in/dr9W-7GT
+
+14. Artificial Intelligence in Business: Creating Value with Machine Learning.
+
+🔗 https://lnkd.in/gcF_Nbsr
+
+15. Fundamentals of TinyML
+
+🔗 https://lnkd.in/dbd4XPUz
