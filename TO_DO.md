@@ -1196,3 +1196,59 @@ Here are 15 FREE courses you don't want to miss:
 15. Fundamentals of TinyML
 
 🔗 https://lnkd.in/dbd4XPUz
+
+#
+
+Here are 13 Youtube channels that will teach you more than the paid one.
+
+13. Stanford University CS229: Machine Learning
+
+🔗https://t.co/cMLzvsdIcT
+
+12. Making Friends with Machine Learning
+
+🔗https://t.co/LiujYMWFbT
+
+11. Neural Networks: Zero to Hero
+
+🔗https://t.co/WaYzmyHYKU
+
+10. MIT Deep Learning for Art, Aesthetics, and Creativity
+
+🔗https://t.co/cANOWM1M2B
+
+9. Stanford University CS230: Deep Learning (2018)
+
+🔗https://t.co/F1jBHejS5k
+
+8. Applied Machine Learning
+
+🔗https://t.co/2znEMgrJvf
+
+7. Practical Deep Learning for Coders 2022
+
+🔗https://t.co/xTg00k7wrt
+
+6. Practical Deep Learning for Coders 2022 - Part 2
+
+🔗https://t.co/82AHonifNK
+
+5. Machine Learning with graphs
+
+🔗https://t.co/hkgfoFoB9O
+
+4. Probabilistic Machine Learning
+
+🔗https://t.co/Z76gVxeI3d
+
+3. Deep Unsupervised Learning
+
+🔗https://t.co/ywkSKC5r5w
+
+2. Foundation Models
+
+🔗https://t.co/owLqaDXAwj
+
+1. Stanford University CS25
+
+🔗https://t.co/nkTtSCG854
