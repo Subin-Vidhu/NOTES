@@ -1252,3 +1252,7 @@ Here are 13 Youtube channels that will teach you more than the paid one.
 1. Stanford University CS25
 
 🔗https://t.co/nkTtSCG854
+
+#
+
+https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB
