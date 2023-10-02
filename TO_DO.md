@@ -1256,3 +1256,47 @@ Here are 13 Youtube channels that will teach you more than the paid one.
 #
 
 https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB
+
+#
+
+9 Courses to Master 6 Essential Machine Learning Engineering Skills
+[https://lnkd.in/dPXcBFcj]
+
+1️⃣ Machine Learning System Design
+
+1.1. Machine Learning System Design by Stanford
+Link: https://lnkd.in/dWY_N8TA
+
+2️⃣ Version Control
+
+2.1. Version Control with Git by Udacity
+Link: https://lnkd.in/dsZ2EgPX
+
+2.2. Building a CI/ CD Machine Learning Pipeline
+Link: https://lnkd.in/ddSRtdaH
+
+3️⃣ Machine Learning Operations (MLOps)
+
+3.1. Machine Learning Engineering for Production (MLOps) Specialization
+Link: https://lnkd.in/gp995xPW
+
+4️⃣ Machine Learning with AWS
+
+4.1. Practical Data Science on the AWS Cloud Specialization
+Link: https://lnkd.in/d-S8U3tP
+
+5️⃣ Algorithms & Data Structure
+
+5.1. Data Structures & Algorithms
+Link: https://lnkd.in/dnAt_D7S
+
+6️⃣ Big Data & Distributed Systems
+
+6.1. Distributed Computing @ University Cambridge
+Link: https://lnkd.in/dYF4V2M3
+
+6.2. Learn Big Data: The Hadoop Ecosystem Masterclass
+Link: https://lnkd.in/dAY2xvX8
+
+6.3. Big Data with PySpark
+Link: https://lnkd.in/gxt2eyzD
