@@ -1300,3 +1300,7 @@ Link: https://lnkd.in/dAY2xvX8
 
 6.3. Big Data with PySpark
 Link: https://lnkd.in/gxt2eyzD
+
+#
+
+https://sumanthrh.com/post/distributed-and-efficient-finetuning/
