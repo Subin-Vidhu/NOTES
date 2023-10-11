@@ -1304,3 +1304,7 @@ Link: https://lnkd.in/gxt2eyzD
 #
 
 https://sumanthrh.com/post/distributed-and-efficient-finetuning/
+
+#
+
+https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/edit#slide=id.g27b2b69cf28_1_728
