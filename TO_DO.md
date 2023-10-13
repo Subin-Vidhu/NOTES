@@ -1312,3 +1312,14 @@ https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAK
 #
 
 https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB
+
+#
+
+https://www.kaggle.com/AI-Report-2023
+
+#
+
+https://www.deeplearning.ai/blog/essential-python-libraries-for-machine-learning-and-data-science/?utm_campaign=DLAI%20Blog&utm_content=267931981&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
+
+
+https://www.deeplearning.ai/resources/#ebooks
