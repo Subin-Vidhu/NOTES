@@ -1327,3 +1327,7 @@ https://www.deeplearning.ai/resources/#ebooks
 #
 
 No work today, Rain... No wifi yet...
+
+#
+
+still the same...
