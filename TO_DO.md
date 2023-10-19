@@ -1335,3 +1335,106 @@ still the same...
 #
 
 https://youtu.be/T7haqIbHKm0?si=JrtcfA5Mvc08NjVl
+
+#
+1. Overview of the data science hiring process
+https://lnkd.in/dAFRn752
+
+2. Resume & Portoflio Preparation
+
+How to Build a Data Science Resume That Gets You Interviews?
+https://lnkd.in/dGkgf2_W
+
+Crafting the Perfect Data Science Resume: 10 Common Mistakes to Steer Clear of
+https://lnkd.in/g4XXbAeX
+
+How I Got 15 More Data Science Interviews in One Month?
+https://lnkd.in/d9qWhFBV
+
+
+
+3. How to Build a Standing-Out Portfolio
+
+How To Build A Data Science Portfolio That Will Land You A Job?
+https://lnkd.in/dTD9u7Kr
+
+Hiring Manager Tips To Land Your First Data Science Job
+https://lnkd.in/dE3VwE_9
+
+Guided Projects: The Ultimate Way to Learn Data Science
+https://lnkd.in/dXcSqJ6b
+
+
+
+4. Getting Internal Referal
+
+Three Methods To Get Internal Referrals For Data Science Positions
+https://lnkd.in/d637dwjf
+
+5. Behavioral Interview Preparation
+
+Cracking the Data Science Behavioral Interview [Full Guide]
+https://lnkd.in/dNhyZ5Je
+
+What To Expect In A Data Science Behavioral Interview
+https://lnkd.in/dcdcpkiV
+
+How To Introduce Yourself In A Data Science Behavioral Interview
+https://lnkd.in/dQqGrJaV
+
+How To Present Past Projects In A Data Science Behavioral Interview
+https://lnkd.in/d5HEKCJ2
+
+What To Ask At The End of A Data Science Behavioral Interview?
+https://lnkd.in/dm6ytwRp
+
+Avoid These 3 Mistakes In Data Science Behavioral Interviews
+https://lnkd.in/dzh8NUkq
+
+Top 50+ Behavioral Data Science Interview Questions
+https://lnkd.in/d3wPWNji
+
+
+6. Technical Interview Preparation
+
+You should Review These Topics Before Data Science Technical Interview
+https://lnkd.in/dmdFzszz
+
+7. Machine Learning Questions
+
+Crack the Machine Learning Coding Questions
+https://lnkd.in/dXPt8aA6
+
+Types of Machine Learning Questions In A Data Science Interview & How To Prepare for Them
+https://lnkd.in/dKTRk-dE
+
+Machine Learning Interview Questions & Answers for Data Scientists
+https://lnkd.in/d8bVN4sT
+
+Deep Learning Interview Questions & Answers for Data Scientists
+https://lnkd.in/dQwPUkZA
+
+
+8. SQL Questions
+
+Ace the SQL Questions in Data Science & Analysis Technical Interview
+https://lnkd.in/dhcXY6AE
+
+SQL & Database Interview Questions & Answers for Data Scientists
+https://lnkd.in/dVfgt23j
+
+6 Free Resources For SQL Interview Preparation
+https://lnkd.in/dMJ4TEQn
+
+9. Programming Questions
+
+Python Interview Questions & Answers for Data Scientists
+https://lnkd.in/ddaPUwgW
+
+10. Mathematics Questions
+
+Probability Interview Questions & Answers for Data Scientists
+https://lnkd.in/d8FKN6if
+
+Statistics Interview Questions & Answers for Data Scientists
+https://lnkd.in/d3M-XRud
