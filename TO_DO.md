@@ -1431,3 +1431,74 @@ https://lnkd.in/d8FKN6if
 
 Statistics Interview Questions & Answers for Data Scientists
 https://lnkd.in/d3M-XRud
+
+
+#
+
+Start your journey today! 🚀
+
+1️⃣ 𝗖𝗼𝘂𝗿𝘀𝗲𝗿𝗮: 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝘀𝗵𝗼𝗿𝘁-𝗰𝗼𝘂𝗿𝘀𝗲𝘀
+
+A great place to start!
+
+Courses offered:
+
+- Building with ChatGPT API
+- Prompt Engineering for Devs
+- LangChain: Chat with Your Data
+- LangChain for LLM Application Development
+
+Check this👇
+https://lnkd.in/dQRJ57pS
+
+2️⃣ 𝗚𝗼𝗼𝗴𝗹𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗮𝘁𝗵
+
+Google has created a Generative AI learning path with 10 FREE courses!
+
+Topics cover:
+- Intro to LLMs
+- Attention Mechanism
+- Image Generation/Captioning
+- Intro to Responsible AI
+
+Check this out👇
+https://lnkd.in/dHphjhvN
+
+3️⃣ 𝗟𝗮𝗻𝗴𝗖𝗵𝗮𝗶𝗻 & 𝗩𝗲𝗰𝘁𝗼𝗿 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 𝗶𝗻 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+
+@activeloopai created the most in-depth & easy-to-follow course on building with LLMs
+
+• 50+ Lessons
+• 10+ Projects you could use in production
+• Challenging and fun Quizzes
+
+Enroll for FREE!👇
+https://lnkd.in/duqpdtBr
+
+4️⃣ 𝗟𝗟𝗠 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗯𝘆 @𝗰𝗼𝗵𝗲𝗿𝗲
+
+A curriculum that provides a solid foundation in NLP!
+
+Skills you'll learn:
+- generation
+- embeddings
+- classification
+- semantic search
+
+Covers everything from the basics advanced topics like LLMs.
+
+Check this👇
+docs.cohere.com/docs/llmu
+
+5️⃣ 𝗟𝗟𝗠 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗟𝗮𝗯 𝗯𝘆 @𝗟𝗶𝗴𝗵𝘁𝗻𝗶𝗻𝗴𝗔𝗜
+
+A curated collection of blogs, tutorials, and how-to videos on:
+
+- Training
+- Fine-tuning
+- And deploying LLMs 🚀
+
+I personally learn a lot from this one!
+
+Check this out👇
+https://lnkd.in/dYszeWH7
