@@ -1324,13 +1324,6 @@ https://www.deeplearning.ai/blog/essential-python-libraries-for-machine-learning
 
 https://www.deeplearning.ai/resources/#ebooks
 
-#
-
-No work today, Rain... No wifi yet...
-
-#
-
-still the same...
 
 #
 
