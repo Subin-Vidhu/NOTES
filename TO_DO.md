@@ -1502,3 +1502,7 @@ I personally learn a lot from this one!
 
 Check this out👇
 https://lnkd.in/dYszeWH7
+
+#
+
+https://medium.com/@ivanreznikov/langchain-101-course-updated-668f7b41d6cb
