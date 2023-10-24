@@ -1510,3 +1510,7 @@ https://medium.com/@ivanreznikov/langchain-101-course-updated-668f7b41d6cb
 #
 
 https://www.freecodecamp.org/news/github-student-developer-pack/
+
+#
+
+https://github.com/chicks2014/SQLGPT
