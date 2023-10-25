@@ -1514,3 +1514,131 @@ https://www.freecodecamp.org/news/github-student-developer-pack/
 #
 
 https://github.com/chicks2014/SQLGPT
+
+#
+
+
+☑ Introduction to generative AI.
+
+https://lnkd.in/d6Ard__B
+
+🔹 Gen AI vs. Traditional Machine Learning.
+🔹 Basics and applications.
+
+☑ AI for Beginners - by Microsoft
+
+Price: Free.
+What? Introduction to AI.
+
+It's a 12-week, 24-lesson course. Excellent to start.
+
+→ https://lnkd.in/duGaKEmu
+
+☑ Introduction to large language models.
+
+https://lnkd.in/dbQR8PJr
+
+🔹 Deep dive into LLMs: Definition, use cases, prompt tuning.
+🔹 Bonus: Google tools for Gen AI app development.
+
+☑ Introduction to responsible AI.
+
+https://lnkd.in/d8DzRMD5
+
+🔹 What is responsible AI?
+🔹 Delve into Google's 7 AI principles.
+🔹 Tailoring AI to business values.
+
+☑ AI for Everyone
+
+Price: Free.
+What? Capabilities & limitations of AI.
+
+AI is not just for engineers.
+
+1. Understand first the technologies.
+2. A non-technical course, designed for everyone.
+3. Real-life examples of AI capabilities & limitations.
+
+→ https://lnkd.in/dKFGrZUV
+
+☑ Fundamentals of generative AI.
+
+https://lnkd.in/dXGUxPVj
+
+🔹 Dive into Generative AI, LLM, and Responsible AI.
+
+☑ Introduction to image generation.
+
+https://lnkd.in/dhdTjjgN
+
+🔹 Focus on diffusion models: Functioning, applications, advancements.
+🔹 Hands-on: Train and deploy on Vertex AI.
+
+☑ Encoder-decoder architecture.
+
+https://lnkd.in/dM2wKKQj
+
+🔹 Key architecture for sequence-to-sequence tasks.
+🔹 Videos: 7-min overview, 20-min lab walkthrough.
+
+☑ Attention mechanism.
+
+https://lnkd.in/dP5vuWAN
+
+🔹 Neural network's spotlight: The attention mechanism.
+🔹 Key applications: Translation, summarization, Q&A.
+
+☑ Midjourney for free
+
+Price: Free.
+What? How to start using Midjourney.
+
+Midjourney is the n°1 Gen-AI tool for images.
+
+This 50-minute video on YouTube get you started.
+
+Cons: It's a bit outdated, and MJ is fast-paced.
+
+→ https://lnkd.in/dFCEa6QW
+
+☑ Midjourney Masterclass
+
+Price: $120.
+What? Master Midjourney from 0 to hero.
+
+My masterclass on Midjourney.
+
+2 hours of video to get you started, hand to hand.
+
+→ https://lnkd.in/dBPPA-dc
+
+☑ ChatGPT for free
+
+Price: Free.
+What? How to start using ChatGPT.
+
+This 34-minute video on YouTube get you started.
+
+Cons: It's a bit outdated.
+
+→ https://lnkd.in/dfn_TWNf
+
+☑ Midjourney for Creatives
+
+Price: $499.
+What? Learn how to control Midjourney and integrate AI into your creative workflow.
+
+Nick St Pierre masterclass.
+It's a cohort-based program.
+
+→ https://lnkd.in/dmGETENx
+
+☑ ChatGPT Masterclass
+
+Price: $120.
+What? Master ChatGPT from 0 to hero.
+
+My masterclass on ChatGPT for content.
+
+2 hours of video to get you started, hand to hand.
