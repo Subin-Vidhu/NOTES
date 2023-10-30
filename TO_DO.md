@@ -1642,3 +1642,126 @@ What? Master ChatGPT from 0 to hero.
 My masterclass on ChatGPT for content.
 
 2 hours of video to get you started, hand to hand.
+
+#
+
+1. Google AI Courses
+
+Google offers 5 different courses to learn generative AI from the ground up.
+
+Start with an Introduction to AI and finish having a solid understanding of AI as a whole.
+
+🦾 https://lnkd.in/eW5k4DVz
+
+
+2. Microsoft AI Course
+
+Microsoft offers an AI course that covers the basics and then more.
+
+Start off with an introduction and continue through learning about neural networks and deep learning.
+
+🦾 https://lnkd.in/eKJ9qmEQ
+
+
+3. Prompt Engineering for ChatGPT
+
+This 6 module course by Vanderbilt University offers beginners a starting point to writing better prompts.
+
+Start by learning effective prompting and complete the course knowing how to bend ChatGPT to your will.
+
+🦾 https://lnkd.in/d-rCb-AM
+
+
+4. AI for Business Specialization
+
+The University of Pennsylvania offers a 4 module course for businesses.
+
+Start off with the fundamentals and finish with an understanding of the use of AI in marketing, finance, and more.
+
+🦾 https://lnkd.in/gZGcHgCg
+
+
+5. Big Data, Artificial Intelligence, and Ethics
+
+In this 4 module course, the University of California - Davis covers big data and introduces IBM's Watson.
+
+Start by learning about big data opportunities and end knowing the limitations of AI.
+
+🦾 https://lnkd.in/gVEf3Dvm
+
+
+6. ChatGPT Prompt Engineering for Devs
+
+OpenAI in collab with DeepLearning is offering this excellent course.
+
+Start off with best practices and finish with a better understanding of prompting with hands-on practice.
+
+🦾 https://lnkd.in/gtGc5Znp
+
+
+7. Introduction to AI with Python
+
+Harvard University is offering a full 7-week course.
+
+Start with the technologies behind AI and end with knowledge of AI principles and machine learning libraries.
+
+🦾 https://lnkd.in/g4Sbb3nQ
+
+
+8. AI Foundations for Everyone
+
+IBM is offering a beginner's course to introduce students to AI.
+
+Start with an introduction and complete the course by building a chatbot without programming.
+
+🦾 https://lnkd.in/gUvtiF9A
+
+
+9. AI Applications and Prompt Engineering
+
+edX has an introductory course on prompt engineering that goes beyond the basics.
+
+Start by learning the basics and end knowing how to create your own applications.
+
+🦾 https://lnkd.in/g2P9U_Bs
+
+
+10. Learn Prompting
+
+Offered by the Prompt Engineering Institute.
+
+Start with an introduction and finish with a full understanding of the theory behind prompt engineering.
+
+🦾 https://lnkd.in/gKk-dRFS
+
+#
+
+[1] DP on Strings
+
+1. https://lnkd.in/dpHdnbJg
+2. https://lnkd.in/dftf72nm
+3. https://lnkd.in/dHAn6fGW
+4. https://lnkd.in/dUnJw4bS
+5. https://lnkd.in/dM8aTrRv
+6. https://lnkd.in/dpSTcynK
+7. https://lnkd.in/db9ZagnM
+8. https://lnkd.in/dxUK2cCv
+
+[2] DP on Decision Making
+
+1. https://lnkd.in/dEiTg5yB
+2. https://lnkd.in/dk3zMy3s
+3. https://lnkd.in/dKhAzfUa
+4. https://lnkd.in/diWt_CpT
+5. https://lnkd.in/dF4U5ZsV
+6. https://lnkd.in/dMst59zc
+
+[3] DP on Merging Intervals
+
+1. https://lnkd.in/dHx3CTdg
+2. https://lnkd.in/de4ZDJVh
+3. https://lnkd.in/dA_Nh7VC
+4. https://lnkd.in/dqiJp2Xh
+5. https://lnkd.in/dp3eXBVq
+6. https://lnkd.in/dy3eKPbv
+7. https://lnkd.in/dEsEBt_Q
