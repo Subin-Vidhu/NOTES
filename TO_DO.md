@@ -1770,3 +1770,7 @@ Start with an introduction and finish with a full understanding of the theory be
 #
 
 https://github.com/ashishpatel26/LLM-Finetuning
+
+#
+
+https://github.com/huggingface/autotrain-advanced
