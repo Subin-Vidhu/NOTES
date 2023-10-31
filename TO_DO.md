@@ -1765,3 +1765,8 @@ Start with an introduction and finish with a full understanding of the theory be
 5. https://lnkd.in/dp3eXBVq
 6. https://lnkd.in/dy3eKPbv
 7. https://lnkd.in/dEsEBt_Q
+
+
+#
+
+https://github.com/ashishpatel26/LLM-Finetuning
