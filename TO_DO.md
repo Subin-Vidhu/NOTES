@@ -1774,3 +1774,94 @@ https://github.com/ashishpatel26/LLM-Finetuning
 #
 
 https://github.com/huggingface/autotrain-advanced
+
+#
+
+1. Programming with a Purpose
+
+An introduction to basic programming elements and a modern introduction to object-oriented programming.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/eJq7HMs
+
+
+2. Introduction to Psychology
+
+Explore topics such as perception, communication, persuasion and social behavior.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/dSX6ctFp
+
+
+3. Introduction to Negotiation
+
+Learn how to predict, interpret, and shape the behavior of those you face in competitive situations.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/d3iKAmw
+
+
+4. Bitcoin and Cryptocurrency Tech
+
+This course will teach you everything you need to be able to separate fact from fiction when reading claims about cryptocurrencies.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/gFJkFUa
+
+
+5. Algorithms, Part 1
+
+This course covers elementary data structures, sorting, and searching algorithms.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/gMEncX6
+
+
+6. Algorithms, Part 2
+
+Dive deeper into algorithms with a focus on graph- and string-processing algorithms.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/guPGDkf
+
+
+7. Financial Markets
+
+An introduction to understand the real-world functioning of securities, insurance, and banking industries.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/gCRMw4W
+
+
+8. The Science of Well-Being
+
+Engage in a series of challenges designed to increase your own happiness and build more productive habits.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/gY-GMvZ
+
+
+9. Effective Altruism
+
+Learn to lead a fully ethical life by doing the most good you possibly can.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/ea9cxVq
+
+
+10. Everyday Parenting
+
+Learn how even simple modifications to tone of voice and phrasing can lead to more compliance.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/eTc2ZUA4
