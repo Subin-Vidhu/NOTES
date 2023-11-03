@@ -1865,3 +1865,7 @@ Learn how even simple modifications to tone of voice and phrasing can lead to mo
 Enroll here for free 👇
 
 🦾 https://lnkd.in/eTc2ZUA4
+
+#
+
+https://github.com/shankarpandala/lazypredict
