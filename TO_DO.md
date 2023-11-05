@@ -1873,3 +1873,31 @@ https://github.com/shankarpandala/lazypredict
 #
 
 Retake python linkedin skill assessment on 1/5/2024.
+
+#
+
+❋ I get asked this question often, and I'm no expert in this, but I compiled a few technical resources with Aman Chadha that could help you start!
+
+❋ Fundamentals (From Aman.ai):
+- Python (http://python.aman.ai)
+- PyTorch (http://pytorch.aman.ai)
+- TensorFlow (http://tensorflow.aman.ai)
+- NumPy (http://numpy.aman.ai)
+- Pandas (http://pandas.aman.ai)
+- Toolkit (https://lnkd.in/gz3XpHYs)
+
+❋ Courses (By Stanford University available on YouTube):
+- You can find the whole list on https://aman.ai/watch/ but here are the few I've highlighted:
+
+- Coursera Machine Learning Specialization by DeepLearning.AI (https://vinija.ai/ml/)
+- CS229: Machine Learning by Andrew Ng and Anand Avati
+- CS224n: Natural Language Processing with Deep Learning by Christopher Manning
+- CS231n: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li Andrej Karpathy, Justin Johnson, and Serena Yeung
+
+❋ Books and blogs:
+- https://aman.ai/read/
+
+❋ Seminal papers:
+- https://aman.ai/papers/
+
+☞ Please let me know if you have more suggestions to add to this list!
