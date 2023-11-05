@@ -1901,3 +1901,18 @@ Retake python linkedin skill assessment on 1/5/2024.
 - https://aman.ai/papers/
 
 ☞ Please let me know if you have more suggestions to add to this list!
+
+#
+
+𝗦𝘁𝗮𝗻𝗳𝗼𝗿𝗱 𝗖𝗦𝟮𝟮𝟰𝗡: 𝗧𝗵𝗲 𝗯𝗲𝘀𝘁 𝗡𝗟𝗣 𝗰𝗼𝘂𝗿𝘀𝗲 𝗼𝘂𝘁 𝘁𝗵𝗲𝗿𝗲!
+
+They have recently released their learning materials from 𝟮𝟬𝟮𝟯, covering:
+
+- RLHF
+- Prompting
+- Transformers
+- And more ...
+
+𝗬𝗼𝘂𝗧𝘂𝗯𝗲: https://lnkd.in/dm6nGkPb
+
+𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://lnkd.in/d8p-hU6T
