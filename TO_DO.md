@@ -1916,3 +1916,40 @@ They have recently released their learning materials from 𝟮𝟬𝟮𝟯, cove
 𝗬𝗼𝘂𝗧𝘂𝗯𝗲: https://lnkd.in/dm6nGkPb
 
 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://lnkd.in/d8p-hU6T
+
+#
+
+1️⃣ 𝐀𝐈 𝐟𝐨𝐫 𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞: https://lnkd.in/gKGX7aN
+
+- The meaning behind common AI terminology, including neural networks, machine learning, deep learning, and data science
+- How to spot opportunities to apply AI to problems in your own organization
+- How to work with an AI team and build an AI strategy in your company
+
+2️⃣ 𝐀𝐈 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐏𝐫𝐨𝐦𝐩𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐟𝐨𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬: https://lnkd.in/gtGc5Znp
+
+- Learn prompt engineering best practices for application development
+- Discover new ways to use LLMs, including how to build your own custom chatbot
+- Gain hands-on practice writing and iterating on prompts yourself using the OpenAI API
+
+3️⃣ 𝐆𝐨𝐨𝐠𝐥𝐞'𝐬 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐈 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐚𝐭𝐡: https://lnkd.in/eUeK7cqP
+
+This learning path provides an overview of generative AI concepts, from the fundamentals of large language models to responsible AI principles.
+
+4️⃣ 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 & 𝐆𝐨𝐨𝐠𝐥𝐞 𝐁𝐚𝐫𝐝 𝐟𝐨𝐫 𝐈𝐧𝐜𝐫𝐞𝐚𝐬𝐞𝐝 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐯𝐢𝐭𝐲: https://lnkd.in/dsra99Ug
+
+-Learn ChaGPT & Google BARD to Improve your Life
+- Gain a new skill which is tremendously helpful
+
+5️⃣ 𝐀𝐈 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐟𝐨𝐫 𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧:https://lnkd.in/dy9WsvQ4
+
+- Learn in-demand skills from university and industry experts
+- Master a subject or tool with hands-on projects
+- Develop a deep understanding of key concepts
+
+6️⃣ 𝐂𝐡𝐚𝐭𝐆𝐏𝐓, 𝐌𝐢𝐝𝐣𝐨𝐮𝐫𝐧𝐞𝐲, 𝐅𝐢𝐫𝐞𝐟𝐥𝐲, 𝐁𝐚𝐫𝐝, 𝐃𝐀𝐋𝐋-𝐄, 𝐀𝐈 𝐂𝐫𝐚𝐬𝐡 𝐂𝐨𝐮𝐫𝐬𝐞:https://lnkd.in/dbxsxVdw
+
+- Learn #chatgpt , #midjourney , Google #bard , and DALL-E with quick & practical crash courses.
+- Use Midjourney & Dall-E to generate photorealistic images, illustrations, and digital art in any style.
+- Learn how to use ChatGPT to generate & edit any kind of text from articles, essays, video scripts, social media posts, emails, and more
+
+7️⃣ 𝐁𝐞𝐜𝐨𝐦𝐞 𝐚𝐧 𝐀𝐈-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫: 𝐂𝐡𝐚𝐭𝐆𝐏𝐓, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐂𝐨𝐩𝐢𝐥𝐨𝐭: https://lnkd.in/dCxyk6eS
