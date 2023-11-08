@@ -1953,3 +1953,16 @@ This learning path provides an overview of generative AI concepts, from the fund
 - Learn how to use ChatGPT to generate & edit any kind of text from articles, essays, video scripts, social media posts, emails, and more
 
 7️⃣ 𝐁𝐞𝐜𝐨𝐦𝐞 𝐚𝐧 𝐀𝐈-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫: 𝐂𝐡𝐚𝐭𝐆𝐏𝐓, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐂𝐨𝐩𝐢𝐥𝐨𝐭: https://lnkd.in/dCxyk6eS
+
+#
+
+6 websites offering FREE data sets for your DATA projects.
+
+1) https://data.gov/
+2) https://lnkd.in/eRq-cVdq
+3) https://data.nasdaq.com/
+4) https://lnkd.in/eGA6n568
+5) https://data.who.int/
+6) https://lnkd.in/ergwSeJm
+
+Share this with DATA aspirants working on building their RESUME PROJECTS.
