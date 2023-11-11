@@ -1999,3 +1999,65 @@ Once you’ve developed and fine-tuned a Language Model (LLM) for specific tasks
 
 ➡ You can find more information in this article:
 https://shorturl.at/IMOVY
+
+#
+
+1. Google Cloud Computing Foundations
+
+🔗http://bit.ly/43cJRMw
+
+2. Data, ML, and AI in Google Cloud
+
+🔗http://bit.ly/3Klag1R
+
+3. Machine Learning Crash Course
+
+🔗http://bit.ly/43grwho
+
+4. Basics of Machine Learning
+
+🔗http://bit.ly/43ibNyK
+
+5. Data Science with Python
+
+🔗http://bit.ly/3zCkPsy
+
+6. Google Project Management
+
+🔗http://bit.ly/3UiG7ot
+
+7. Agile Project Management
+
+🔗http://bit.ly/3zENXzt
+
+8. Project Execution: Running the Project
+
+🔗http://bit.ly/3GmPg9O
+
+9. Foundations of Project Management
+
+🔗http://bit.ly/3Go7Bn4
+
+10. Project Initiation: Starting a Successful Project
+
+🔗http://bit.ly/3zCko1q
+
+11. Project Planning: Putting It All Together
+
+🔗http://bit.ly/3UgrceA
+
+12. Fundamentals of digital marketing
+
+🔗http://bit.ly/3KBDDhT
+
+13. Python Basics for Data Analysis
+
+🔗http://bit.ly/3zBg2Yu
+
+14. Data Science Foundations
+
+🔗http://bit.ly/3ZIZXKU
+
+15. Advanced Google Analytics
+
+🔗http://bit.ly/3KDo2OO
