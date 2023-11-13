@@ -2061,3 +2061,27 @@ https://shorturl.at/IMOVY
 15. Advanced Google Analytics
 
 🔗http://bit.ly/3KDo2OO
+
+#
+
+Here are 10 resources that I strongly recommend:
+
+- Two minutes paper - A short high level summary of the best research papers: https://lnkd.in/eB4naqx7
+
+- MIT tech review: https://lnkd.in/eUrCwGMV
+
+- State of AI report - An annual report summarising the biggest AI breakthroughs in research, industry, politics and safety: https://lnkd.in/eK5stzSq by Nathan Benaich and Ian Hogarth
+
+-StatQuest - A YouTube channel which clearly explains statistics and mathematical concepts: https://lnkd.in/efPPiejb by Joshua Starmer PhD.
+
+- Alpha Signal - An AI algorithm which gives you a weekly summary of the top research papers, repos, and tweets: https://alphasignal.ai/ with Lior Sinclair Eric Vyacheslav and others.
+
+- Medium - The best blog posts in my opinion: https://medium.com/
+
+- What’s AI YouTube channel - Another great channel for high level summaries of research papers, conversations with some of the best in the field and insights on Generative AI: https://lnkd.in/evUrXTJh by Louis Bouchard.
+
+- Data Science Dojo - They organise lots of events including great webinars: https://lnkd.in/eKfDhh2x.
+
+- AI Stories podcast - One of the best AI podcast out there (I swear I’m not biased 😅): https://lnkd.in/eYqEvsVi
+
+- Follow the right people - I include a link to an old post on my top 20 LinkedIn influencers in the field: https://lnkd.in/eUJeajwn
