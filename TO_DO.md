@@ -2085,3 +2085,11 @@ Here are 10 resources that I strongly recommend:
 - AI Stories podcast - One of the best AI podcast out there (I swear I’m not biased 😅): https://lnkd.in/eYqEvsVi
 
 - Follow the right people - I include a link to an old post on my top 20 LinkedIn influencers in the field: https://lnkd.in/eUJeajwn
+
+#
+
+https://chat.openai.com/g/g-2Eo3NxuS7-designergpt
+
+#
+
+https://github.com/microsoft/generative-ai-for-beginners
