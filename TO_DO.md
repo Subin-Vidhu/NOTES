@@ -2093,3 +2093,12 @@ https://chat.openai.com/g/g-2Eo3NxuS7-designergpt
 #
 
 https://github.com/microsoft/generative-ai-for-beginners
+
+
+#
+
+
+https://www.databricks.com/resources/learn/training/generative-ai-fundamentals?scid=7018Y000001Fi0mQAC&utm_medium=paid+search&utm_source=google&utm_campaign=20394238458&utm_adgroup=148511021981&utm_content=training&utm_offer=generative-ai-fundamentals&utm_ad=667128277826&utm_term=databricks%20llm%20course&gad_source=1&gclid=CjwKCAiA9dGqBhAqEiwAmRpTC9dDgvRCZrDOpXHROduKZasd8LXSVDeh9hjjV2O--xjzmXOn4vtzbRoCWisQAvD_BwE
+#
+
+https://www.youtube.com/@Indently
