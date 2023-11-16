@@ -2102,3 +2102,18 @@ https://www.databricks.com/resources/learn/training/generative-ai-fundamentals?s
 #
 
 https://www.youtube.com/@Indently
+
+#
+
+🗄️ Retrieval Augmented Generation (RAG)
+
+➢ RAG is a technique that enhances language model generation by incorporating external knowledge, and thus, also helps with mitigation of hallucination within LLMs.
+
+➢ It has many variants and applications such as:
+ - Vector Databases: For semantic retrieval with dense embeddings.
+ - Graph Databases: Focused on extracting entity relationships for precise retrieval.
+ - SQL Databases: For more structured data queries.
+
+➢ MuRAG - Multimodal Extension: MuRAG expands RAG to include images and structured data, significantly enhancing multimodal question-answering capabilities.
+
+🔗 The article here: https://vinija.ai/nlp/RAG/ expands on this topic
