@@ -2117,3 +2117,7 @@ https://www.youtube.com/@Indently
 ➢ MuRAG - Multimodal Extension: MuRAG expands RAG to include images and structured data, significantly enhancing multimodal question-answering capabilities.
 
 🔗 The article here: https://vinija.ai/nlp/RAG/ expands on this topic
+
+#
+
+ML readme
