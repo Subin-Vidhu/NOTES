@@ -2121,3 +2121,99 @@ https://www.youtube.com/@Indently
 #
 
 ML readme
+#
+
+1. Introduction to Computer Science
+
+An introduction to the intellectual enterprises of computer science and the art of programming.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/eyH2ndbk
+
+
+2. Introduction to Artificial Intelligence with Python
+
+Learn to use machine learning in Python in this introductory course on artificial intelligence.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/dfZtsxDr
+
+
+3. Data Science: Machine Learning
+
+Build a movie recommendation system and learn the science behind one of the most popular and successful data science techniques.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/djU9RH_c
+
+(Closing Soon)
+
+
+4. Web Programming with Python and JavaScript
+
+This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/dVXCTBbb
+
+
+5. Understanding Technology
+
+Want to know how the technology you use every day works? This Harvard course explains the essentials.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/dzbSuBQE
+
+
+6. Computer Science for Business Professionals
+
+This is CS50’s introduction to computer science for business professionals.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/ebwS9N7P
+
+(Closing Soon)
+
+
+7. Entrepreneurship in Emerging Economies
+
+Explore how entrepreneurship and innovation tackle complex social problems in emerging economies.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/ejDHx8Jy
+
+
+8. Improving Your Business Through a Culture of Health
+
+Learn how a Culture of Health can transform your business to improve the well-being of your employees and company, while increasing revenue.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/grYRiDtm
+
+(Closing Soon)
+
+
+9. Exercising Leadership
+
+Mobilize people to tackle tough problems and build the capacity to thrive through the dangers of change.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/e5tmKggQ
+
+
+10. Managing Happiness
+
+Happiness is within your control. Write your own ending.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/gqgKzDUj
