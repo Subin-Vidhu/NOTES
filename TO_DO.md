@@ -2217,3 +2217,14 @@ Happiness is within your control. Write your own ending.
 Enroll here for free 👇
 
 🦾 https://lnkd.in/gqgKzDUj
+
+#
+
+Its hard to believe, but the best 6 machine learning books are completely free:
+
+- Deep Learning - https://lnkd.in/gxpnZ6Sa
+- Dive into Deep Learning - d2l.ai
+- Machine Learning Engineering - https://lnkd.in/eVCAYh4
+- Python Data Science Handbook - https://lnkd.in/ehfZ-Tx
+- Probabilistic Machine Learning - https://lnkd.in/gcSBFgk
+- Machine Learning Yearning - https://lnkd.in/d3bC2d2R
