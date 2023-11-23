@@ -2228,3 +2228,30 @@ Its hard to believe, but the best 6 machine learning books are completely free:
 - Python Data Science Handbook - https://lnkd.in/ehfZ-Tx
 - Probabilistic Machine Learning - https://lnkd.in/gcSBFgk
 - Machine Learning Yearning - https://lnkd.in/d3bC2d2R
+
+#
+
+📝 GenAI Notebooks for Practical Use-cases: From Data to Model to Serving
+
+• For data enthusiasts, developers, and AI aficionados looking to upskill, these free notebooks will help you learn how to supercharge your apps with #GenAI.
+• Embark on a journey of learning in-demand skills related to data science and AI with these notebooks that cater to industrial use-cases.
+
+1. Build LLM Apps that Can See, Hear, Speak: https://lnkd.in/gaf2ab_W
+
+2. Retrieval Augmented Generation (RAG)-based Question-Answering Pipeline: https://lnkd.in/g_BCvzW2
+
+3. Semantic Search with OpenAI Embeddings: https://lnkd.in/gdV94aWR
+
+4. A Simple Movie Recommender System: https://lnkd.in/gKghXp8s
+
+5. Ingesting Real-time Data from the International Space Station (ISS) using Kafka Pipelines and Query Tuning: https://lnkd.in/gF59-DTk
+
+6. Celebrity Image Matching with SQL: https://lnkd.in/gEZB-VdY
+
+7. Resume Evaluator: https://lnkd.in/gwa6QCx6
+
+8. Comparative Analysis of Performance between MongoDB Atlas v/s SingleStore Kai: https://lnkd.in/gYQHkNVB
+
+9. Getting Started with Data Frames in SingleStoreDB: https://lnkd.in/gwHhYmyM
+
+10. Working with Numpy Vector Data: https://lnkd.in/gcJbwP5x
