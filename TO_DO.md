@@ -2255,3 +2255,69 @@ Its hard to believe, but the best 6 machine learning books are completely free:
 9. Getting Started with Data Frames in SingleStoreDB: https://lnkd.in/gwHhYmyM
 
 10. Working with Numpy Vector Data: https://lnkd.in/gcJbwP5x
+
+#
+
+Here are 10 FREE Google courses to master AI in 2023👇
+
+1. Introduction to Generative AI:
+
+An introductory course explaining the nature, uses, and differences of Generative AI from traditional machine learning methods.
+
+URL: https://lnkd.in/gpN7Z-mg
+
+2. Generative AI Fundamentals:
+
+Earn a skill badge by demonstrating your understanding of foundational concepts in generative AI.
+
+URL: https://lnkd.in/gebKJ5YU
+
+3. Introduction to Responsible AI:
+
+Learn what Responsible AI is, why it’s essential, and how Google implements it in its products.
+
+URL: https://lnkd.in/gmgvbsye
+
+4. Introduction to Large Language Models:
+
+This course explores what large language models are, their use cases, and how to enhance their performance.
+
+URL: https://lnkd.in/gpNCxybE
+
+5. Introduction to Image Generation:
+
+This course introduces diffusion models, a promising family of machine learning models in the image generation space.
+
+URL: https://lnkd.in/gVUUm3Wy
+
+6. Encoder-Decoder Architecture:
+
+Learn about the encoder-decoder architecture, a critical component of machine learning for sequence-to-sequence tasks.
+
+URL: https://lnkd.in/gFUUBPqU
+
+7. Attention Mechanism:
+
+This course introduces the attention mechanism, which allows neural networks to focus on specific parts of an input sequence.
+
+URL: https://lnkd.in/gHu2Wauy
+
+8. Transformer Models and BERT Model:
+
+A comprehensive introduction to the Transformer architecture and the Bidirectional Encoder Representations from the Transformers (BERT) model.
+
+URL: https://lnkd.in/g9Cy9-r9
+
+9. Create Image Captioning Models:
+
+Learn how to create an image captioning model using deep learning techniques.
+
+URL: https://lnkd.in/gxvCgg26
+
+10. Introduction to Generative AI Studio:
+
+This course introduces Generative AI Studio, a product of Vertex AI, guiding users on how to prototype and customize generative AI models.
+
+URL: https://lnkd.in/g6Uc28jF
+
+If you found this post helpful follow me
