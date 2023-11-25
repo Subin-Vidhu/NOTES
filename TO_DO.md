@@ -2321,3 +2321,20 @@ This course introduces Generative AI Studio, a product of Vertex AI, guiding use
 URL: https://lnkd.in/g6Uc28jF
 
 If you found this post helpful follow me
+
+#
+
+🏅 Recommender Systems Primers
+
+Delve into the key ideas of building recommender systems and understanding their inner workings.
+
+🔹 Candidate Generation/Retrieval: http://candgen.aman.ai
+🔹 Candidate Ranking (http://rank.aman.ai): 
+🔹 Candidate Re-ranking (http://re-rank.aman.ai): 
+🔹 The Cold Start Problem: http://cold-start.aman.ai
+🔹 Position Bias: http://pos-bias.aman.ai
+🔹 Content Moderation in Recommender Systems: http://mod.vinija.ai
+🔹 Evaluation Metrics, and Loss Functions for Recommender Systems: http://rec-eval.aman.ai
+🔹 Multi-Armed Bandits: http://mab.aman.ai
+🔹 GNNs for Recommender Systems: http://rec-gnn.aman.ai
+🔹 Transformers for Recommender Systems: http://rec-tf.aman.ai
