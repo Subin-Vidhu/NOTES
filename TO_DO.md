@@ -2338,3 +2338,6 @@ Delve into the key ideas of building recommender systems and understanding their
 🔹 Multi-Armed Bandits: http://mab.aman.ai
 🔹 GNNs for Recommender Systems: http://rec-gnn.aman.ai
 🔹 Transformers for Recommender Systems: http://rec-tf.aman.ai
+
+#
+At office for RSNA 2023
