@@ -2340,4 +2340,5 @@ Delve into the key ideas of building recommender systems and understanding their
 🔹 Transformers for Recommender Systems: http://rec-tf.aman.ai
 
 #
-At office for RSNA 2023
+
+https://www.youtube.com/watch?v=-6p-u-BwJww
