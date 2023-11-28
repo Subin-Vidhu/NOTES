@@ -2342,3 +2342,53 @@ Delve into the key ideas of building recommender systems and understanding their
 #
 
 https://www.youtube.com/watch?v=-6p-u-BwJww
+
+#
+
+🤖 𝗔𝗜 𝗮𝗻𝗱 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘁𝗼 𝗦𝘁𝗮𝗿𝘁 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 👨‍💻
+
+OpenAI engineers are leading the way and earning top salaries.
+
+👉 𝗪𝗵𝘆 𝗟𝗲𝗮𝗿𝗻 𝗔𝗜 𝗮𝗻𝗱 𝗚𝗲𝗻𝗔𝗜 𝗦𝗸𝗶𝗹𝗹𝘀 𝗡𝗼𝘄?
+The demand for AI talent is exploding as organizations rush to deploy the next generation of intelligent applications. AI and genAI skills are versatile, they can be used to solve a wide range of problems in business, science, and engineering.
+
+I've compiled hands-on project tutorials to help you get started and build a portfolio:
+
+𝟭. 𝗚𝗲𝘁𝘁𝗶𝗻𝗴 𝗦𝘁𝗮𝗿𝘁𝗲𝗱 𝗪𝗶𝘁𝗵 𝗟𝗮𝗻𝗴𝗖𝗵𝗮𝗶𝗻 𝗜𝗻 𝟮𝟬 𝗠𝗶𝗻𝘂𝘁𝗲𝘀- Build Celebrity Search Application
+https://lnkd.in/e-R2caTu
+
+𝟮. 𝗕𝘂𝗶𝗹𝗱 𝗟𝗟𝗠 𝗔𝗽𝗽𝘀 𝘁𝗵𝗮𝘁 𝗰𝗮𝗻 𝘀𝗲𝗲, 𝗵𝗲𝗮𝗿 𝗮𝗻𝗱 𝘀𝗽𝗲𝗮𝗸
+https://bit.ly/3GezkGw
+
+𝟯. 𝗟𝗮𝘂𝗻𝗰𝗵 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗔𝗽𝗽𝘀 𝘄𝗶𝘁𝗵 𝗟𝗮𝗻𝗴𝗖𝗵𝗮𝗶𝗻
+https://bit.ly/49MECGF
+
+𝟰. 𝗖𝗼𝗱𝗶𝗻𝗴 𝗮 𝗽𝗿𝗶𝘃𝗮𝘁𝗲𝗚𝗣𝗧 𝘂𝘀𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝗖𝗵𝗮𝗶𝗻, 𝗛𝘂𝗴𝗴𝗶𝗻𝗴𝗙𝗮𝗰𝗲 𝗘𝗺𝗯𝗲𝗱𝗱𝗶𝗻𝗴𝘀 𝗮𝗻𝗱 𝗙𝗥𝗘𝗘 𝗟𝗟𝗠
+Create an offline chatbot that can seamlessly interact with your documents, ensuring data confidentiality and complete privacy
+https://lnkd.in/eybH-d5E
+
+𝟱. 𝗖𝗿𝗲𝗮𝘁𝗲 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝘁𝗲𝘅𝘁 𝘁𝗼 𝗶𝗺𝗮𝗴𝗲 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 
+Using Hugging Face Stable Diffusion pretrained model
+https://lnkd.in/e9GTaTPr
+
+𝟲. 𝗟𝗮𝗻𝗴𝗰𝗵𝗮𝗶𝗻 𝗖𝗦𝗩 𝗔𝗴𝗲𝗻𝘁: Talk with CSV files Or Pandas Data Frames
+https://lnkd.in/enbba9cK
+
+𝟳. 𝗖𝗿𝗲𝗮𝘁𝗲 𝗮 𝗖𝗵𝗮𝘁𝗕𝗼𝘁 𝗶𝗻 𝗣𝘆𝘁𝗵𝗼𝗻 𝗨𝘀𝗶𝗻𝗴 𝗟𝗹𝗮𝗺𝗮𝟮 𝗮𝗻𝗱 𝗟𝗮𝗻𝗴𝗖𝗵𝗮𝗶𝗻 - Ask Questions About Your Own Data
+https://lnkd.in/ep32XssZ
+
+𝟴. 𝗘𝗻𝗱 𝘁𝗼 𝗲𝗻𝗱 𝗟𝗟𝗠 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘂𝘀𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝗖𝗵𝗮𝗶𝗻 𝘁𝗼 𝗯𝘂𝗶𝗹𝗱 𝗮 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻-𝗮𝗻𝗱-𝗮𝗻𝘀𝘄𝗲𝗿 𝘀𝘆𝘀𝘁𝗲𝗺 𝗳𝗼𝗿 𝗮 𝗿𝗲𝗮𝗹 𝗲-𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗰𝗼𝗺𝗽𝗮𝗻𝘆
+https://lnkd.in/eqjwnaxW
+
+𝟵. 𝗕𝘂𝗶𝗹𝗱 𝗮𝗻𝗱 𝗥𝘂𝗻 𝗮 𝗠𝗲𝗱𝗶𝗰𝗮𝗹 𝗖𝗵𝗮𝘁𝗯𝗼𝘁 𝘂𝘀𝗶𝗻𝗴 𝗟𝗹𝗮𝗺𝗮 𝟮
+https://lnkd.in/edyVq6yY
+
+𝟭𝟬. 𝗜𝗺𝗮𝗴𝗲 𝗠𝗮𝘁𝗰𝗵𝗶𝗻𝗴 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
+AI applications including face matching, product photo matching, object recognition, text similarity matching, and sentiment analysis
+https://bit.ly/3ut1rPv
+
+𝟭𝟭. 𝗕𝘂𝗶𝗹𝗱 𝗮 𝗥𝗲𝘀𝘂𝗺𝗲 𝗘𝘃𝗮𝗹𝘂𝗮𝘁𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 𝗢𝗽𝗲𝗻𝗔𝗜'𝘀 𝗟𝗟𝗠
+Practical use-case to evaluate resumes using OpenAI API to enable content extraction, key point summarization, and precise matching for comprehensive assessments.
+https://bit.ly/3SSq5D8
+
+Embrace the future, enhance your skills, and join the AI revolution today! 🦾
