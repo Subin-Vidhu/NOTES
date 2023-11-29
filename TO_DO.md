@@ -2392,3 +2392,25 @@ Practical use-case to evaluate resumes using OpenAI API to enable content extrac
 https://bit.ly/3SSq5D8
 
 Embrace the future, enhance your skills, and join the AI revolution today! 🦾
+
+#
+
+6 Free AI Courses that can save your 1000s of hours:
+
+1. Microsoft - AI For Beginners Curriculum.
+https://lnkd.in/gcNpwMch
+
+2. Introduction to Artificial Intelligence
+https://lnkd.in/gU7i2qg7
+
+3. What Is Generative AI?
+https://lnkd.in/gEir5E-y
+
+4. Generative AI: The Evolution of Thoughtful Online Search
+https://lnkd.in/gG5vj6YX
+
+5. Streamlining Your Work with Microsoft Bing Chat
+https://lnkd.in/gGbJMmsq
+
+6. Ethics in the Age of Generative AI
+https://lnkd.in/gKm_jS2u
