@@ -2423,3 +2423,93 @@ New...
 #
 
 https://github.com/Avaiga/taipy
+
+#
+
+Here are 10 FREE courses you don't want to miss:
+
+
+1. Computer Science 101
+
+A self-paced course that teaches the essential ideas of Computer Science for a zero-prior-experience audience.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/dBbz5Keh
+
+
+2. Machine Learning Specialization
+
+A beginner-friendly program that teaches you the fundamentals of Machine Learning.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/dFiQ5xrH
+
+
+3. Algorithms: Design and Analysis
+
+Learn several fundamental principles of algorithm design including the divide-and-conquer design paradigm.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/eKsafebr
+
+
+4. Databases: Advanced Topics in SQL
+
+This course is broad and practical, covering indexes, transactions, and constraints, all in the context of relational database systems and the SQL language.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/gs2kHyB3
+
+
+5. R Programming Fundamentals
+
+Explore the basics of R: a free programming language and software environment used for statistical computing and graphics.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/dPzsu-rm
+
+
+6. Statistical Learning
+
+This is an introductory-level course in supervised learning, with a focus on regression and classification methods.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/ehv4iMeP
+
+
+7. Advanced Cybersecurity Program
+
+An introduction to fundamental concepts in information security and practical applications in cybersecurity and executive strategy.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/gqpDYEBu
+
+
+8. Introduction to Internet of Things
+
+This introductory course provides a taste of what to expect from courses that are part of the IoT Graduate Certificate program.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/dkaiEUNU
+
+
+9. Game Theory
+
+The course will provide the basics: representing games and strategies, the extensive form, Bayesian games, repeated and stochastic games, and more.
+
+Enroll here for free 👇
+
+🦾 https://lnkd.in/df4bAyJu
+
+
+10. Designing Your Career
+
+A design thinking approach to anyone develop a constructive and effective approach to designing their vocation.
