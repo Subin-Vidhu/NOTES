@@ -2513,3 +2513,7 @@ Enroll here for free 👇
 10. Designing Your Career
 
 A design thinking approach to anyone develop a constructive and effective approach to designing their vocation.
+
+#
+
+https://huggingface.co/THUDM/cogvlm-chat-hf/tree/main
