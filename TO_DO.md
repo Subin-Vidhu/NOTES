@@ -2593,3 +2593,33 @@ Top Open Source LLMs available for Commercial Use:
 - Creators: Mistral AI
 - Parameters: 7B
 - Link: https://lnkd.in/gqSKFrqY
+
+#
+
+Biggest Collection of Colab Based LLMs Fine tuning Notebooks Now added Knowledge Graph LLMs Notebook
+
+✅ Github : https://lnkd.in/dgNzeaQw 🌟600🌟
+
+🌟 Hit star button to save this repo in your profile
+
+1. Efficiently Train Large Language Models with LoRA and Hugging Face
+2. Fine-Tune Your Own Llama 2 Model in a Colab Notebook
+3. Guanaco Chatbot Demo with LLaMA-7B Model
+4. PEFT Finetune-Bloom-560m-tagger
+5. Finetune_Meta_OPT-6-1b_Model_bnb_peft
+6. Finetune Falcon-7b with BNB Self Supervised Training
+7. FineTune LLaMa2 with QLoRa
+8. Stable_Vicuna13B_8bit_in_Colab
+9. GPT-Neo-X-20B-bnb2bit_training
+10. MPT-Instruct-30B Model Training
+11. RLHF_Training_for_CustomDataset_for_AnyModel
+12. Fine_tuning_Microsoft_Phi_1_5b_on_custom_dataset(dialogstudio)
+13. Finetuning OpenAI GPT3.5 Turbo
+14. Finetuning Mistral-7b FineTuning Model using Autotrain-advanced
+15. RAG LangChain Tutorial
+16. Knowledge Graph LLM with LangChain PDF Question Answering
+
+
+#
+
+https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training?mkt_tok=ODA4LUdKVy0zMTQAAAGP2YNForZhnkpK84oG1gzvklHHQNULn7OWkJzYkg54sR-Xr3nBfhaHlh6hFD5ran3_2RA7JfPiiwO_xP6nSaq-eoqGna2aC9y-Xfab6q09suPRYaqFcDI
