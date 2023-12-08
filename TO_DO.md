@@ -2623,3 +2623,7 @@ Biggest Collection of Colab Based LLMs Fine tuning Notebooks Now added Knowledge
 #
 
 https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training?mkt_tok=ODA4LUdKVy0zMTQAAAGP2YNForZhnkpK84oG1gzvklHHQNULn7OWkJzYkg54sR-Xr3nBfhaHlh6hFD5ran3_2RA7JfPiiwO_xP6nSaq-eoqGna2aC9y-Xfab6q09suPRYaqFcDI
+
+#
+
+https://github.com/PacktPublishing/Machine-Learning-for-Imbalanced-Data
