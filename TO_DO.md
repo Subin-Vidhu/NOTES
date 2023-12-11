@@ -2685,3 +2685,58 @@ https://github.com/PacktPublishing/Machine-Learning-for-Imbalanced-Data
 🔸Machine Learning
 https://lnkd.in/ddH4n9aP
 https://lnkd.in/dd-4XmCU
+
+
+#
+
+You can get paid for writing!
+
+Here are 7 websites where you can write a blog and get paid.
+
+Most will pay you $500 to $1000 for an article:
+
+1. Contentlab io
+
+This writing platform offers up to $500 each blog
+
+URL: https://contentlab.com/
+
+2. Content Turbine
+
+This writing site offers up to $150 to $200 every blog.
+
+URL: https://lnkd.in/gf-7XvqH
+
+3. Draft dev
+
+This is one of the well-known platform for writers, which pays $780 every article.
+
+URL: https://draft.dev/
+
+4. Digitalocean
+
+This writing platform offers up to $400 per blog.
+
+URL: https://lnkd.in/giSdYX-f
+
+5. AirByte
+
+This writing platform offers up to $900 per article.
+
+URL: https://airbyte.com/
+
+6. Hasura io
+
+Hasura will pay you $300 for each post published.
+
+URL: https://hasura.io/
+
+7. Civo
+
+Civocloud will pay you $500 for each post published.
+
+URL: https://www.civo.com/
+
+If you found this post helpful follow me @alifcoder
+
+Subscribe to my daily newsletter.
