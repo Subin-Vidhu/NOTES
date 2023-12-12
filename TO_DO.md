@@ -2740,3 +2740,37 @@ URL: https://www.civo.com/
 If you found this post helpful follow me @alifcoder
 
 Subscribe to my daily newsletter.
+
+#
+
+►Data Science Projects:
+https://lnkd.in/gzTdjcgY
+
+►Learn In One Tutorials
+
+Statistics in 6 hours: https://lnkd.in/gQz7TYDn
+
+Machine Learning In 6 Hours: https://lnkd.in/gXhRtt4j
+
+Deep Learning 5 hours : https://lnkd.in/ghaE93KP
+
+►Learn In a Week Playlist
+
+Statistics:https://lnkd.in/gxAbvMf2
+
+Machine Learning : https://lnkd.in/gvhGNrZr
+
+Deep Learning:https://lnkd.in/g3mkMr7w
+
+NLP : https://lnkd.in/gP8Rudq6
+
+►Detailed Playlist:
+Python Detailed Playlist: https://lnkd.in/gnjWmtsE
+Python playlit in Hindi: https://lnkd.in/gWukKux2
+Stats For Data Science In Hindi : https://lnkd.in/gQGh6zGT
+Machine Learning In English : https://lnkd.in/gJrdXYDB
+Machine Learning In Hindi : https://lnkd.in/gHuwbfSa
+Complete Deep Learning: https://lnkd.in/gpkh33v
+
+Complete Langchain Playlist:
+https://lnkd.in/gArUp-Q5
