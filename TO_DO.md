@@ -2774,3 +2774,8 @@ Complete Deep Learning: https://lnkd.in/gpkh33v
 
 Complete Langchain Playlist:
 https://lnkd.in/gArUp-Q5
+
+
+#
+
+https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/
