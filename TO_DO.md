@@ -2779,3 +2779,32 @@ https://lnkd.in/gArUp-Q5
 #
 
 https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/
+
+#
+
+📕 Free GenAI Tutorials - From Dataset to Model to Serving
+
+Embark on a journey of learning in-demand skills related to development, data, and AI by completing these tutorials. They provide end to end data to modeling knowledge on the following tasks:
+
+1. Analysis of MongoDB Atlas vs Kai: https://bit.ly/47sPiso
+
+2. Build LLMs that Can See, Hear, Speak: https://bit.ly/3Rdca9M
+
+3. Movie Recommender System: https://bit.ly/3RaRHlF
+
+4. Working with Numpy Vector Data: https://bit.ly/47Nwqnx
+
+5. Build Semantic Search with OpenAI Embeddings: https://bit.ly/47qh4Wu
+
+6. Ingesting Real-time Data from the International Space Station (ISS) using Kafka Pipelines and Query Tuning: https://bit.ly/47Nwxzt
+
+7. Semantic Search with Retrieval Augmented Generation (RAG)-based OpenAI Question-Answering Pipeline: https://bit.ly/49KZYEd
+
+8. Getting Started with Data Frames in SingleStore DB: https://bit.ly/3usqzWB
+
+9. Build a RAG-based Question-Answering Pipeline with LangChain: https://bit.ly/49Ixawh
+
+10. Celebrity Image Matching with SQL: https://bit.ly/49Q9eHm
+
+11. Resume Evaluator: https://bit.ly/3QPRHq2
+
