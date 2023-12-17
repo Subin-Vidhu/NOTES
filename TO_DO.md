@@ -2808,3 +2808,6 @@ Embark on a journey of learning in-demand skills related to development, data, a
 
 11. Resume Evaluator: https://bit.ly/3QPRHq2
 
+#
+
+https://platform.openai.com/docs/guides/prompt-engineering/strategy-write-clear-instructions
