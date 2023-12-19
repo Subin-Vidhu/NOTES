@@ -2811,3 +2811,7 @@ Embark on a journey of learning in-demand skills related to development, data, a
 #
 
 https://platform.openai.com/docs/guides/prompt-engineering/strategy-write-clear-instructions
+
+#
+
+https://docs.google.com/presentation/d/1yBWLNzlrrIsfNprbEnmYdqckAMrwFZB-/edit#slide=id.p1
