@@ -2815,3 +2815,8 @@ https://platform.openai.com/docs/guides/prompt-engineering/strategy-write-clear-
 #
 
 https://docs.google.com/presentation/d/1yBWLNzlrrIsfNprbEnmYdqckAMrwFZB-/edit#slide=id.p1
+
+
+#
+
+https://chat.openai.com/share/50e03c3e-400d-44bf-bfe9-60ae006b2f1f
