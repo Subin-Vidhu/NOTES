@@ -2820,3 +2820,43 @@ https://docs.google.com/presentation/d/1yBWLNzlrrIsfNprbEnmYdqckAMrwFZB-/edit#sl
 #
 
 https://chat.openai.com/share/50e03c3e-400d-44bf-bfe9-60ae006b2f1f
+
+#
+
+𝗟𝗲𝘃𝗲𝗹 𝗨𝗽 𝗬𝗼𝘂𝗿 𝗗𝗮𝘁𝗮 & 𝗔𝗜 𝗚𝗮𝗺𝗲: 𝟭𝟵 𝗙𝗥𝗘𝗘 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗬𝗼𝘂 𝗖𝗮𝗻'𝘁 𝗠𝗶𝘀𝘀! 🤯
+
+Hey Data & AI enthusiasts! Ready to propel your skills to the next level without breaking the bank? We're thrilled to announce a treasure trove of 19 high-quality AI & ML courses - completely FREE!
+
+🔎 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗮𝗿𝘃𝗲𝗹𝘀:
+⚙️Intro to Machine Learning: https://lnkd.in/ecqatZBA
+✨Stanford: Machine Learning: https://lnkd.in/exNpHVgK
+💡Making Friends with Machine Learning: https://lnkd.in/ejM83n2B
+🌐Applied Machine Learning: https://lnkd.in/eBPxJriR
+⚡Statistical Machine Learning: https://lnkd.in/eszaHhnn
+🎓Neural Networks: Zero to Hero: https://lnkd.in/eHyXfdMY
+
+🧠 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗶𝗲𝘀:
+✨Introduction to Deep Learning (MIT): https://lnkd.in/eh7wTzbq
+📚CMU Introduction to Deep Learning: https://lnkd.in/eCF92CDW
+🎨MIT: Deep Learning: https://lnkd.in/eURJKHUS
+💻Stanford Deep Learning: https://lnkd.in/e6fWv3R8
+
+🗣️ 𝗡𝗟𝗣 𝗡𝘂𝗴𝗴𝗲𝘁𝘀:
+📘Stanford - Transformers: https://lnkd.in/eMHXPehx
+📖NLP Course (Hugging Face): https://lnkd.in/ehhG4S_2
+📒Natural Language Understanding: https://lnkd.in/emVV8CfA
+📚CMU Advanced NLP 2022: https://lnkd.in/eXenh9pm
+
+👁️ 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗩𝗲𝗻𝘁𝘂𝗿𝗲𝘀:
+🖼️Deep Learning for Computer Vision: https://lnkd.in/eMk3kWSz
+
+🕹️ 𝗥𝗲𝗶𝗻𝗳𝗼𝗿𝗰𝗲𝗺𝗲𝗻𝘁 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘃𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀:
+🧩Foundations of Deep RL: https://lnkd.in/eAhySKAS
+🎮Deep Reinforcement Learning: https://lnkd.in/e6gyvp4s
+🔬Stanford: Reinforcement Learning: https://lnkd.in/eGR-5THW
+
+That's it! Let's make 2024 your year to conquer AI & ML! 🦾
+
+➡ At Data & AI Central, we're passionate about empowering data enthusiasts like you. This is just the first step in your learning journey with us.
+
+We'll constantly adding new resources to our community, so stay tuned and make sure to follow us 👉 Data and AI Central
