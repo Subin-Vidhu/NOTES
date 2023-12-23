@@ -2860,3 +2860,27 @@ That's it! Let's make 2024 your year to conquer AI & ML! 🦾
 ➡ At Data & AI Central, we're passionate about empowering data enthusiasts like you. This is just the first step in your learning journey with us.
 
 We'll constantly adding new resources to our community, so stay tuned and make sure to follow us 👉 Data and AI Central
+
+
+#
+
+Learn In One Tutorials
+
+Python Playlist : https://lnkd.in/gvSimVkK
+
+Statistics in 6 hours: https://lnkd.in/gQz7TYDn
+
+Machine Learning In 6 Hours: https://lnkd.in/gXhRtt4j
+
+Deep Learning 5 hours : https://lnkd.in/ghaE93KP
+
+
+Learn In a Week Playlist
+
+Statistics:https://lnkd.in/gxAbvMf2
+
+Machine Learning : https://lnkd.in/gvhGNrZr
+
+Deep Learning:https://lnkd.in/g3mkMr7w
+
+NLP : https://lnkd.in/gP8Rudq6
