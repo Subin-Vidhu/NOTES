@@ -2888,3 +2888,18 @@ NLP : https://lnkd.in/gP8Rudq6
 #
 
 https://www.freecodecamp.org/news/free-courses-top-cs-universities/
+
+#
+
+Got a data scientist interview this month? Here are 10 resources for prep👇
+
+1. Meta technical screen: https://lnkd.in/e2_indTt
+2. AB testing by Googler: https://lnkd.in/e-TS4mMf
+3. Applied statistics question: https://lnkd.in/eWFYqC_k
+4. Product sense question: https://lnkd.in/eeb8Pexd
+5. 100 Core concepts in data science interview: https://lnkd.in/e__t2biu
+6. 100 FAANG-style SQL questions: https://lnkd.in/drpiU88m
+7. AB testing course with Python: https://lnkd.in/dZ3wcnti
+8. Interview classes with Google, Tesla, Meta DS: https://lnkd.in/eBbgMcwF
+9. Opportunity sizing case: https://lnkd.in/eibpBKBD
+10. Data science coding question: https://lnkd.in/evRXznnM
