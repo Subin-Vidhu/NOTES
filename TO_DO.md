@@ -2952,3 +2952,118 @@ https://lnkd.in/dbT4b_CV
 
 ⭐ Subscribe to my newsletter To Data & Beyond to have full access to my past and future articles:
 https://lnkd.in/dVkD-7WT
+
+#
+
+Become a Microsoft Certified for FREE in 2023
+
+A Thread 🧵👇
+
+1. Introduction to Machine Learning
+
+This course is a great way to learn the basics and use cases of Machine Learning.
+
+→ 11 Modules
+→ 2.5 Hours
+→ Beginner Friendly
+→ Free Badge
+
+Link: https://lnkd.in/gR-fNMvu
+
+2. Python for beginners
+
+Learn how to create programs and projects in Python. Work with strings, lists, loops, dictionaries, and functions.
+
+→ 10 Modules
+→ 5.5 Hours
+→ Beginner Friendly
+→ Free Badge
+
+Link: https://lnkd.in/gf8fQKKT
+
+Are you a CEO or Agency Owner
+
+I will ghostwrite viral content + turn your account into a Professional Profile and Build your Personal Brand including engagement on LinkedIn & Twitter
+
+How?
+
+DM let's chat
+https://lnkd.in/gqZ4pv6s
+
+3. Get started with Azure Cosmos DB
+
+Learn about the Azure Cosmos DB for NoSQL and
+How to get started with your first account, database, and container.
+
+→ 06 Modules
+→ 01 Hours
+→ Intermediate
+→ Free Badge
+
+Link: https://lnkd.in/gCFpEfNc
+
+4. Get started with AI on Azure
+
+Learn the concepts and capabilities of artificial intelligence (AI) on Azure.
+
+→ 10 Modules
+→ 01 Hours
+→ Beginner Friendly
+→ Earn 10XP
+
+Link: https://lnkd.in/gXvTAFVc
+
+5. Introduction to Data Science with Python
+
+Learn some basic skills and prepare for the rest of the courses.
+
+→ 06 Modules
+→ 03 Hours
+→ Beginner Friendly
+→ Free Badge
+
+Link: https://lnkd.in/g-JWSWb7
+
+6. Microsoft Azure Fundamentals
+
+Learn the basic concepts of cloud computing and how Azure implements them.
+
+→ 04 Modules
+→ 2.5 Hours
+→ Beginner Friendly
+→ Free Badge
+
+Link: https://lnkd.in/gh8PFS8K
+
+7. Secure your cloud data
+
+Learn how to secure your data in Azure using various tools and techniques.
+
+→ 05 Modules
+→ 4.5 Hours
+→ Advanced
+→ Free Badge
+
+Link: https://lnkd.in/gvaUKC-b
+
+8. Automate development tasks by using GitHub
+
+This course teaches you how to use GitHub Actions to automate your software development tasks.
+
+→ 07 Modules
+→ 01 Hours
+→ Beginner
+→ Free Badge
+
+Link: https://lnkd.in/gDGbvBSn
+
+9. Write your first code using C#
+
+Learn the basic syntax and thought processes required to build simple applications using C#.
+
+→ 06 Modules
+→ 05 Hours
+→ Beginner
+→ Free Badge
+
+Link: https://lnkd.in/gteMFysa
