@@ -3067,3 +3067,65 @@ Learn the basic syntax and thought processes required to build simple applicatio
 → Free Badge
 
 Link: https://lnkd.in/gteMFysa
+
+1️⃣ Write Efficient Python Code
+
+✅ Writing Python Efficient Code: Measuring Python Code Efficiency
+https://lnkd.in/dQSUpQsQ
+
+✅ Python Code Optimization for Data Scientists
+https://lnkd.in/dGS7DWbX
+
+✅ How To Eliminate Loops From Your Python Code
+https://lnkd.in/dV5xDhyV
+
+✅ Stop Looping Through Pandas DataFrames
+https://lnkd.in/dsf7zWFs
+
+✅ How To Use .groupby() Effectively As A Data Scient
+https://lnkd.in/d8UX2zr6
+
+✅ Selecting & Replacing Values In Pandas Effectively
+https://lnkd.in/dcw6c36z
+
+✅ Make Your Pandas Code 1000 Times Faster
+https://lnkd.in/dvawCSGv
+
+✅ 20 Pandas Functions for 80% of Data Science Tasks
+https://lnkd.in/dvC4pJ9E
+
+✅ Top 10 Pandas Mistakes to Avoid
+https://lnkd.in/dvPZdis6
+
+2️⃣ Practical Introduction to Time Series Analysis
+
+✅ Manipulating Time Series Data In Python
+https://lnkd.in/des9h7Fx
+
+✅ Time Series Data Visualization In Python
+https://lnkd.in/dnSAdKa6
+
+✅ Time Series Exploratory Data Analysis In Python
+https://lnkd.in/dX7bCfqJ
+
+✅ Time Series Forecasting with ARIMA Models Part 1
+https://lnkd.in/dS_MuYuH
+
+✅ Time Series Forecasting with ARIMA Models Part 2
+https://lnkd.in/db3k_gze
+
+3️⃣ Practical Machine Learning
+✅ Practical Guide to Dimesnioality Reduction in Python
+https://lnkd.in/dFkBvZRi
+
+✅ Building Complex Network with Keras Functional API
+https://lnkd.in/dnGrJrGT
+
+✅ Finding the Optimal Number of Clusters Effectively
+https://lnkd.in/dwcPdhk3
+
+✅ Chat with PDF Using OpenAI Assistant API
+https://lnkd.in/dBk_yrQm
+
+✅ Building & Training GAN Model From Scratch
+https://lnkd.in/d2Wm6SAA
