@@ -3129,3 +3129,20 @@ https://lnkd.in/dBk_yrQm
 
 ✅ Building & Training GAN Model From Scratch
 https://lnkd.in/d2Wm6SAA
+
+#
+
+Just came across the most comprehensive LLM course on github.
+
+It covers various articles, roadmaps, Colab notebooks, and other learning resources that help you to become an expert in the field:
+
+➡ The LLM architecture
+➡ Building an instruction dataset
+➡ Pre-training models
+➡ Supervised fine-tuning
+➡ Reinforcement Learning from Human Feedback
+➡ Evaluation
+➡ Quantization
+➡ Inference optimization
+
+Repo (3.2k stars): https://lnkd.in/g-42Yjgu
