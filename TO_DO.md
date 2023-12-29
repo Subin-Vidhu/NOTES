@@ -3146,3 +3146,58 @@ It covers various articles, roadmaps, Colab notebooks, and other learning resour
 ➡ Inference optimization
 
 Repo (3.2k stars): https://lnkd.in/g-42Yjgu
+
+#
+
+1. Follow me Endrit Restelica to stay up to date with AI and Tech.
+
+2. LinkedIn offers Free Online courses in AI, Computer Science, Blockchain and Marketing:
+https://lnkd.in/dkE5GjkN
+
+3. Google offers FREE courses in AI, IoT, Machine Learning, Data Science, Computer Science:
+https://lnkd.in/dBeCxpfP
+
+4. Harvard University offers 18 free online courses:
+https://lnkd.in/dGhjKGvb
+
+5. FREE Generative AI Courses by Microsoft & LinkedIn with a FREE Certificate:
+https://lnkd.in/dwN2uaD3
+
+6. Computer Science by Harvard, Stanford, MIT, IBM, Microsoft and Google:
+https://lnkd.in/drPShzJp
+
+7. Harvard University is offering FREE education Courses in Data Science:
+https://lnkd.in/dqr-Pphj
+
+8. Google offers free online Courses and Certification from Computer Science to Artificial Intelligence:
+https://lnkd.in/dnCiHFmU
+
+9. Google released 10 FREE Generative AI Courses:
+https://lnkd.in/dqj_ghzf
+
+10. Become a Google Certified Data Scientist for FREE:
+https://lnkd.in/drruV7M6
+
+11. 20 Top AI Resources to get up to speed (for free):
+https://lnkd.in/dXHqxWcG
+
+12. Microsoft is offering FREE courses in AI, IoT, Machine Learning, Data Science:
+https://lnkd.in/e5KJnUQf
+
+13. Certifications you can take for free in AI, ML, Python, Software Engineering, Data Science, Project Management, Digital Marketing:
+https://lnkd.in/d4EP49au
+
+14. 18 more A.I. Resources:
+https://lnkd.in/dJAteJyu
+
+15. 56 more Free A.I. Resources:
+https://lnkd.in/dVvqXUZ4
+
+16. 13 more AI Resources:
+https://lnkd.in/ddgM4mQd
+
+17. 22 more AI Resources:
+https://lnkd.in/e3i4VQVP
+
+18. 15 more AI resources:
+https://lnkd.in/eyHW-e5U
