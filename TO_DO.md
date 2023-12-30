@@ -3201,3 +3201,7 @@ https://lnkd.in/e3i4VQVP
 
 18. 15 more AI resources:
 https://lnkd.in/eyHW-e5U
+
+#
+
+https://www.cloudskillsboost.google/paths/17
