@@ -3205,3 +3205,27 @@ https://lnkd.in/eyHW-e5U
 #
 
 https://www.cloudskillsboost.google/paths/17
+
+#
+
+10 Insane AI tools you cannot miss in 2024:
+
+1. Lovo.ai - AI Voice Generator
+
+2. silatus.com - Automated Research Assistant
+
+3. Sheetplus.ai - Write Excel formulas with AI
+
+4. Tldv.io - AI Meeting Assistant
+
+5. Perplexity.ai - Use AI while browsing
+
+6. Kickresume.com - AI Resume Builder
+
+7. Rytr.me - Personal AI copywriter
+
+8. Durable.co - AI website builder
+
+9. Chatpdf.com - Chat with any PDF
+
+10. klap.app - Create 10X viral videos in minutes
