@@ -3229,3 +3229,37 @@ https://www.cloudskillsboost.google/paths/17
 9. Chatpdf.com - Chat with any PDF
 
 10. klap.app - Create 10X viral videos in minutes
+
+#
+
+Over this year, I have been active and consistently creating open-source projects and resources on GitHub. Here are my top 10 GitHub repositories based on number of stars:
+
+▶ Data Science Interview Questions & Answers: A curated list of data science interview questions and answers (1953⭐)
+Link: https://lnkd.in/dGz_AsBM
+
+▶ Practical Machine Learning: Practical machine learning notebooks and articles cover the machine learning end-to-end life cycle. (748⭐)
+Link: https://lnkd.in/dt7jNbdf
+
+▶ Data Science Interview Preparation Resources: Resource to help you prepare for your coming data science interviews. (675⭐)
+Link: https://lnkd.in/djcgcKRT
+
+▶ Efficient Python for Data Scientists: Learn how to write efficient Python code as a data scientist. (461⭐)
+Link: https://lnkd.in/dsuspPZP
+
+▶ Awesome Data Science Resoruces: A curated list of Data science resources covering all the theoretical and practical skills. (401⭐)
+Link: https://lnkd.in/dHuxqxkh
+
+▶ Awesome AI & Data GitHub-Repos: A curated list of the most essential GitHub repos that cover the AI & ML landscape. (401⭐)
+Link: https://lnkd.in/dvyE2v6h
+
+▶ Practical Time Series In Python: Practical guidance for time series analysis in Python. (231⭐)
+Link: https://lnkd.in/ddZJQCwQ
+
+▶ Practical Data Science Blog: Friendly link to all of my medium articles (148⭐)
+Link: https://lnkd.in/dac7hbyD
+
+▶ Getting Started with Generative AI: A curated list of articles and tutorials to start with and understand generative AI (131⭐)
+Link: https://lnkd.in/dDzySu7g
+
+▶ Data Science Portfolio Projects (111⭐)
+Link: https://lnkd.in/d5ndThg6
