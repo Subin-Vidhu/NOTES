@@ -3266,4 +3266,62 @@ Link: https://lnkd.in/d5ndThg6
 
 #
 
-Jan 7, 2024
+Jan 8, 2024
+
+#
+
+5 GitHub repositories that will give you superpowers as an AI/ML Engineer:
+
+1️⃣ Awesome Artificial Intelligence
+
+A curated list of Artificial Intelligence:
+
+- courses
+- books
+- video lectures
+- and papers with code
+
+Check this out 👇
+https://lnkd.in/g3bQGjfr
+
+2️⃣ Cleanlab
+
+You're missing out on a lot if you haven't started using Cleanlab yet!
+
+Cleanlab helps you clean data and labels by automatically detecting issues in a ML dataset.
+
+It's like a magic wand! 🪄✨
+
+Check this out👇
+https://lnkd.in/dY2fp5YW
+
+3️⃣ 500 projects with code
+
+A curated list of 500 AI, Machine learning, Computer vision & NLP Projects with code
+
+Check this out👇
+https://lnkd.in/gnY3K75d
+
+4️⃣ Prompt Engineering Guide
+
+A guide that contains all the latest papers, learning guides, lectures, references, and tools related to prompt engineering for LLMs.
+
+Happy Prompting!
+
+Check this out👇
+https://lnkd.in/dC6jBSDZ
+
+5️⃣ Lit-GPT
+
+Lit-GPT is a fully open-source & hackable implementation of SOTA LLMs, it provides everything you need as an LLM Developer.
+
+Key features include:
+
+- Flash attention
+- 4 & 8-bit quantization
+- Finetuning using LoRA & LLaMA-adapter
+
+Check this👇
+https://lnkd.in/dzKepQUv
+
+That's a wrap!
