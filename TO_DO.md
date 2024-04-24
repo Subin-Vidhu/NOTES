@@ -2,7 +2,7 @@
 
 - With a multitude of AI courses available online, coming up with an study plan for AI can easily lead to decision fatigue.
 - I often get asked about which courses have been useful to me to build a foundation in AI. Here’s my list of courses along with their respective YouTube playlists.
-- Check out my watch list with all of the below pointers (and a much larger list of such resources and more): https://aman.ai/watch
+- Check out my watch l with all of the below pointers (and a much larger list of such resources and more): https://aman.ai/watch
 
 📚 Stanford University
 🔹 CS221 - Artificial Intelligence: Principles and Techniques by Percy Liang and Dorsa Sadigh: https://lnkd.in/grECwbD4
@@ -3325,4 +3325,4 @@ That's a wrap!
 
 #
 
-April 23, 2024.
+April 24, 2024.
