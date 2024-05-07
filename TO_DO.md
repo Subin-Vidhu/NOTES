@@ -1,3 +1,5 @@
+Going for surgery,will be back soon...
+
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
 - With a multitude of AI courses available online, coming up with an study plan for AI can easily lead to decision fatigue.
