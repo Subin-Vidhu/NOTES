@@ -1,4 +1,4 @@
-Going for surgery,will be back soon... day 7 - May 19
+Going for surgery,will be back soon... day 7 - May 20
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
