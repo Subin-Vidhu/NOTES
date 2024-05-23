@@ -1,4 +1,4 @@
-Going for surgery,will be back soon... I am Back
+New Life...
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
