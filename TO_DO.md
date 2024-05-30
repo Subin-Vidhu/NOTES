@@ -1,4 +1,4 @@
-New Life......Day Three
+New Life......Day Four
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
