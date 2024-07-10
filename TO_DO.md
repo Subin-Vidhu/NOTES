@@ -1,4 +1,4 @@
-New Life......Day 89
+New Life......Day 88
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
