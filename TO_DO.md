@@ -1,4 +1,4 @@
-New Life......Day 80
+New Life......Day 79
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
