@@ -1,5 +1,6 @@
 # NOTES
 
+- pull
 Notes taken from Courses and Blogs.
 
 #To read Today 
