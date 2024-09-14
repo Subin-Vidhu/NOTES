@@ -1,4 +1,4 @@
-New Life......Day -infinf!!!
+New Life......Day -break!!!
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
