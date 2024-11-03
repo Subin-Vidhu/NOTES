@@ -1,4 +1,4 @@
-New Life......Day 22!!! not well
+New Life......Day 23!!! not well
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
