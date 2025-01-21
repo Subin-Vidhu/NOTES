@@ -1,4 +1,4 @@
-New Life......Day 2025/20 - travelling
+New Life......Day 2025/21
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
