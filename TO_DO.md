@@ -1,4 +1,4 @@
-New Life......Day 2025/3/12 - ammama passed away day 2
+New Life......Day 2025/3/12 - ammama passed away day 3
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
