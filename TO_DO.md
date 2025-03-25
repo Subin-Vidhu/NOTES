@@ -1,4 +1,4 @@
-New Life......Day 2025/3/12 to 24 - ammama passed away day 7 getting back together - got new work,started that work,needs more testing, needs to be more careful on the testing part
+New Life......Day 2025/3/12 to 25 - ammama passed away day 7 getting back together - got new work,started that work,needs more testing, needs to be more careful on the testing part
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
