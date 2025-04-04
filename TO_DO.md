@@ -1,4 +1,4 @@
-New Life......Day 2025/4/3 - New Journey
+New Life......Day 2025/4/4 - New Journey
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
