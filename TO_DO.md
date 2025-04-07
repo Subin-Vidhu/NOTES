@@ -1,4 +1,4 @@
-New Life......Day 2025/4/7 - New Journey, Manifesting for the best
+New Life......Day 2025/4/8 - New Journey, Manifesting for the best
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
