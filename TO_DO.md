@@ -1,4 +1,4 @@
-New Life......Day 2025/4/27 - Journey of Yours!
+New Life......Day 2025/4/28 - Journey of Yours!
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
