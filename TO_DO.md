@@ -1,4 +1,4 @@
-New Life......Day 2025/5/12 - Journey of Yours, Getting better every day, starting diet too, for 21 days first...
+New Life......Day 2025/5/12 - Journey of Yours, Getting better every day, all new updates on the Readme.md of 2025
 
 📺 The best Stanford, CMU, and MIT courses for AI (with YouTube playlists)
 
